@@ -1,0 +1,5 @@
+Crawl Stone Soup tile subset used in Ashen Oath
+Source repository: https://github.com/crawl/tiles
+Pinned commit: a6ea1655db5c044829d9eea19a232fa6fcac87b0
+Source release folder: releases/Nov-2015
+The upstream README identifies the exported tiles as CC0 (public domain) and links its approved-artists list and separate unclear-license exclusion list. The 55 selected PNGs are unchanged 32x32 sprites and their source paths are recorded in crawl-creatures-map.tsv. The upstream README, ARTISTS.md, and TILES_UNDER_UNKNOWN_LICENSE.md are retained alongside this notice.

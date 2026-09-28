@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "ashfall_herb_bed",
+      "locationId": "ashfall_village",
+      "positionX": -9.2,
+      "positionY": -1.6,
+      "cropId": "moonwort",
+      "cropDisplayName": "Moonwort",
+      "seedItemId": "moonwort_seed",
+      "harvestItemId": "moonwort_leaf",
+      "harvestQuantity": 2,
+      "growSeconds": 90
+    },
+    {
+      "id": "cinderwell_saffron_bed",
+      "locationId": "cinderwell_basin",
+      "positionX": -5.4,
+      "positionY": -1.4,
+      "cropId": "salt_saffron",
+      "cropDisplayName": "Salt Saffron",
+      "seedItemId": "salt_saffron_seed",
+      "harvestItemId": "salt_saffron_bloom",
+      "harvestQuantity": 2,
+      "growSeconds": 120
+    },
+    {
+      "id": "choir_echo_kelp_bed",
+      "locationId": "choir_beneath_lake",
+      "positionX": -5.6,
+      "positionY": -2.8,
+      "cropId": "echo_kelp",
+      "cropDisplayName": "Echo Kelp",
+      "seedItemId": "echo_kelp_seed",
+      "harvestItemId": "echo_kelp",
+      "harvestQuantity": 2,
+      "growSeconds": 105
+    },
+    {
+      "id": "outerwake_skyroot_bed",
+      "locationId": "outerwake_archive",
+      "positionX": -8.0,
+      "positionY": -2.5,
+      "cropId": "skyroot",
+      "cropDisplayName": "Skyroot",
+      "seedItemId": "skyroot_seed",
+      "harvestItemId": "skyroot_sap",
+      "harvestQuantity": 1,
+      "growSeconds": 105
+    },
+    {
+      "id": "last_oath_emberroot_bed",
+      "locationId": "last_oath_reach",
+      "positionX": -8.0,
+      "positionY": -2.7,
+      "cropId": "emberroot",
+      "cropDisplayName": "Emberroot",
+      "seedItemId": "emberroot_seed",
+      "harvestItemId": "emberroot",
+      "harvestQuantity": 2,
+      "growSeconds": 135
+    },
+    {
+      "id": "greenwake_glassplum_bed",
+      "locationId": "greenwake_refuge",
+      "positionX": -4.8,
+      "positionY": 1.6,
+      "cropId": "glassplum",
+      "cropDisplayName": "Glassplum",
+      "seedItemId": "glassplum_seed",
+      "harvestItemId": "glassplum",
+      "harvestQuantity": 2,
+      "growSeconds": 135
+    },
+    {
+      "id": "cinder_cistern_brineglass_bed",
+      "locationId": "cinder_cistern",
+      "positionX": -2.0,
+      "positionY": -4.7,
+      "cropId": "brineglass_moss",
+      "cropDisplayName": "Brineglass Moss",
+      "seedItemId": "brineglass_moss_spore",
+      "harvestItemId": "brineglass_moss",
+      "harvestQuantity": 2,
+      "growSeconds": 150
+    },
+    {
+      "id": "saltroad_windglass_reed_bed",
+      "locationId": "salt_road",
+      "positionX": 4.0,
+      "positionY": -4.4,
+      "cropId": "windglass_reed",
+      "cropDisplayName": "Windglass Reed",
+      "seedItemId": "windglass_reed_seed",
+      "harvestItemId": "windglass_reed",
+      "harvestQuantity": 2,
+      "growSeconds": 120
+    },
+    {
+      "id": "dawnkeep_dawnmeadow_bed",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -7.0,
+      "positionY": 3.4,
+      "cropId": "dawnmeadow_mint",
+      "cropDisplayName": "Dawnmeadow Mint",
+      "seedItemId": "dawnmeadow_mint_seed",
+      "harvestItemId": "dawnmeadow_mint",
+      "harvestQuantity": 2,
+      "growSeconds": 110
+    },
+    {
+      "id": "cinderwell_barley_bed",
+      "locationId": "cinderwell_basin",
+      "positionX": -8.8,
+      "positionY": 3.5,
+      "cropId": "cinderwell_barley",
+      "cropDisplayName": "Cinderwell Barley",
+      "seedItemId": "cinderwell_barley_seed",
+      "harvestItemId": "cinderwell_barley",
+      "harvestQuantity": 2,
+      "growSeconds": 120
+    },
+    {
+      "id": "ashfall_emberlily_bed",
+      "locationId": "ashfall_village",
+      "positionX": -2.6,
+      "positionY": -1.0,
+      "cropId": "emberlily",
+      "cropDisplayName": "Emberlily",
+      "seedItemId": "emberlily_seed",
+      "harvestItemId": "emberlily_petals",
+      "harvestQuantity": 2,
+      "growSeconds": 100
+    }
+  ]
+}

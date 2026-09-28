@@ -1,0 +1,4015 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "ashfall_herb_ledger_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Mira's Herb Ledger",
+      "targetId": "ashfall_herb_ledger",
+      "visualId": "herb_ledger",
+      "positionX": -3.8,
+      "positionY": -2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_remedy_shelf_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Ashfall Remedy Shelf",
+      "targetId": "ashfall_remedy_shelf",
+      "visualId": "remedy_shelf",
+      "positionX": -1.2,
+      "positionY": -2.9,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_cellar_tally_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Chalk Tally on the Cellar Beam",
+      "targetId": "ashfall_cellar_tally",
+      "visualId": "chalk_tally",
+      "positionX": -3.3,
+      "positionY": -0.3,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_gideon_witness_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Gideon Park",
+      "targetId": "ashfall_gideon_witness",
+      "visualId": "witness",
+      "positionX": -2.5,
+      "positionY": 1.0,
+      "scale": 0.075
+    },
+    {
+      "id": "ashfall_cellar_brace_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Inner Cellar Door Brace",
+      "targetId": "ashfall_cellar_brace",
+      "visualId": "door_brace",
+      "positionX": 5.2,
+      "positionY": -1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_record_desk_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Mira’s Record Desk",
+      "targetId": "ashfall_shelter_record_desk",
+      "visualId": "document",
+      "positionX": 1.5,
+      "positionY": 1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_public_copy_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Survivor Notice Board",
+      "targetId": "ashfall_shelter_public_copy",
+      "visualId": "noticeboard",
+      "positionX": -1.0,
+      "positionY": -3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_private_case_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Gideon’s Sealed Testimony Case",
+      "targetId": "ashfall_shelter_private_case",
+      "visualId": "sealed_case",
+      "positionX": 7.0,
+      "positionY": 0.0,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_ashfall_scrape",
+      "locationId": "ashfall_village",
+      "displayName": "Western Trail Scrape",
+      "targetId": "waymarks_ashfall_scrape",
+      "visualId": "waymarker",
+      "positionX": -8.5,
+      "positionY": 0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_ashfall_shelter_post",
+      "locationId": "ashfall_village",
+      "displayName": "Ashfall Return Post",
+      "targetId": "waymarks_ashfall_shelter_post",
+      "visualId": "waymarker",
+      "positionX": -8.5,
+      "positionY": 3.0,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_dawnkeep_landing",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "North Lakeshore Landing",
+      "targetId": "waymarks_dawnkeep_landing",
+      "visualId": "waymarker",
+      "positionX": -8.4,
+      "positionY": -1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_barracks_blank_pass",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Blank Waypass Table",
+      "targetId": "waymarks_barracks_blank_pass",
+      "visualId": "waymarker",
+      "positionX": -5.4,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_barracks_lantern_drop",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Lantern Change Box",
+      "targetId": "waymarks_barracks_lantern_drop",
+      "visualId": "waymarker",
+      "positionX": 5.4,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_cinderwell_cup",
+      "locationId": "cinderwell_basin",
+      "displayName": "Traveler’s Water Cup",
+      "targetId": "waymarks_cinderwell_cup",
+      "visualId": "waymarker",
+      "positionX": 0.2,
+      "positionY": 3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_saltroad_rest_marker",
+      "locationId": "salt_road",
+      "displayName": "Salt Road Rest Marker",
+      "targetId": "waymarks_saltroad_rest_marker",
+      "visualId": "waymarker",
+      "positionX": -2.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_choir_clickstone",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Two-Tap Signal Stone",
+      "targetId": "waymarks_choir_clickstone",
+      "visualId": "waymarker",
+      "positionX": -9.2,
+      "positionY": 0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_greenwake_seedbed",
+      "locationId": "greenwake_refuge",
+      "displayName": "Shared Seedbed Path",
+      "targetId": "waymarks_greenwake_seedbed",
+      "visualId": "waymarker",
+      "positionX": 0.2,
+      "positionY": -4.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_greenwake_canopy",
+      "locationId": "greenwake_refuge",
+      "displayName": "Traveler Canopy Peg",
+      "targetId": "waymarks_greenwake_canopy",
+      "visualId": "waymarker",
+      "positionX": 8.9,
+      "positionY": -0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_outerwake_beacon",
+      "locationId": "outerwake_archive",
+      "displayName": "Outer-Wake Star Beacon",
+      "targetId": "waymarks_outerwake_beacon",
+      "visualId": "waymarker",
+      "positionX": -9.5,
+      "positionY": 2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_distribution_desk",
+      "locationId": "outerwake_archive",
+      "displayName": "Route Distribution Desk",
+      "targetId": "waymarks_distribution_desk",
+      "visualId": "waymarker",
+      "positionX": -9.6,
+      "positionY": -0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_public_map_frame",
+      "locationId": "outerwake_archive",
+      "displayName": "Public Route Map Frame",
+      "targetId": "waymarks_public_map_frame",
+      "visualId": "waymarker",
+      "positionX": 9.6,
+      "positionY": -2.0,
+      "scale": 0.085
+    },
+    {
+      "id": "waymarks_courier_lockbox",
+      "locationId": "outerwake_archive",
+      "displayName": "Courier Map Lockbox",
+      "targetId": "waymarks_courier_lockbox",
+      "visualId": "waymarker",
+      "positionX": 9.6,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_common_table_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Bàn ăn ghép ván",
+      "targetId": "ashfall_common_table",
+      "visualId": "document",
+      "positionX": 4.4,
+      "positionY": 1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_cup_rope_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Giá cốc buộc dây màu",
+      "targetId": "ashfall_cup_rope",
+      "visualId": "remedy_shelf",
+      "positionX": 6.2,
+      "positionY": 2.5,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_rain_log_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Nhật ký mưa của Gideon",
+      "targetId": "ashfall_rain_log",
+      "visualId": "document",
+      "positionX": -8.7,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_blank_placecard_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Tấm thẻ chỗ ngồi trống",
+      "targetId": "ashfall_blank_placecard",
+      "visualId": "noticeboard",
+      "positionX": 8.7,
+      "positionY": 0.9,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_awning_knot_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Nút dây mái che phía đông",
+      "targetId": "ashfall_awning_knot",
+      "visualId": "waymarker",
+      "positionX": 1.5,
+      "positionY": 0.3,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_evening_board_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Bảng quy ước bữa tối",
+      "targetId": "ashfall_evening_board",
+      "visualId": "noticeboard",
+      "positionX": -8.6,
+      "positionY": -4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "greenwake_accept_relay_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Crown relay graft seam",
+      "targetId": "greenwake_crown_relay_seam",
+      "visualId": "root_graft",
+      "positionX": 3.7,
+      "positionY": 1.0,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_refusal_seed_plan_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Shared seed planning table",
+      "targetId": "greenwake_seed_sharing_table",
+      "visualId": "seed_cradle",
+      "positionX": -8.2,
+      "positionY": 1.7,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_cycle_tablet_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Cycle and harvest tablet",
+      "targetId": "greenwake_cycle_tablet",
+      "visualId": "cycle_tablet",
+      "positionX": 3.6,
+      "positionY": 3.9,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_lower_rill_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Lower root-channel gauge",
+      "targetId": "greenwake_lower_rill",
+      "visualId": "stone_rill",
+      "positionX": -7.8,
+      "positionY": -3.3,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_seed_calendar_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Seasonal seed calendar",
+      "targetId": "greenwake_seed_calendar",
+      "visualId": "herb_ledger",
+      "positionX": 4.3,
+      "positionY": -1.4,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_root_silt_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Root-well silt tray",
+      "targetId": "greenwake_root_silt",
+      "visualId": "stone_rill",
+      "positionX": -2.3,
+      "positionY": 1.0,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_caretaker_rota_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Volunteer watering rota",
+      "targetId": "greenwake_caretaker_rota",
+      "visualId": "document",
+      "positionX": 5.1,
+      "positionY": 0.1,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_trial_terms_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Grove trial protocol",
+      "targetId": "greenwake_trial_terms",
+      "visualId": "noticeboard",
+      "positionX": -7.1,
+      "positionY": 3.9,
+      "scale": 0.09
+    },
+    {
+      "id": "choir_mara_voss",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Mara Voss",
+      "targetId": "mara_voss",
+      "visualId": "choir_diver",
+      "positionX": 9.0,
+      "positionY": -1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_diver_wax_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Diver’s Wax Slate",
+      "targetId": "choir_diver_wax",
+      "visualId": "document",
+      "positionX": 8.7,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_listening_rules_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Listening Agreement",
+      "targetId": "choir_listening_rules",
+      "visualId": "noticeboard",
+      "positionX": -8.7,
+      "positionY": 3.3,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_consent_table_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Community Listening Table",
+      "targetId": "choir_voice_consultation",
+      "visualId": "document",
+      "positionX": 1.3,
+      "positionY": 4.15,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_public_copy_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Consent-Limited Transcript",
+      "targetId": "choir_public_voice_copy",
+      "visualId": "document",
+      "positionX": 7.8,
+      "positionY": 1.45,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_private_case_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Sealed Personal Segment",
+      "targetId": "choir_private_voice_case",
+      "visualId": "sealed_case",
+      "positionX": -4.4,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_playback_log_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Playback Custody Log",
+      "targetId": "choir_playback_log",
+      "visualId": "document",
+      "positionX": -8.9,
+      "positionY": -3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_household_envelopes_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Household Envelope Bundle",
+      "targetId": "dawnkeep_household_envelopes",
+      "visualId": "document",
+      "positionX": -8.2,
+      "positionY": 0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_unclaimed_badges_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Unclaimed Badge Pouch",
+      "targetId": "dawnkeep_unclaimed_badges",
+      "visualId": "sealed_case",
+      "positionX": 0.1,
+      "positionY": 3.3,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_return_window_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "East Desk Shift Window",
+      "targetId": "dawnkeep_return_window",
+      "visualId": "noticeboard",
+      "positionX": 8.3,
+      "positionY": 0.2,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_courier_handoff_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Courier Handoff Note",
+      "targetId": "dawnkeep_courier_handoff",
+      "visualId": "document",
+      "positionX": -8.1,
+      "positionY": -2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_copy_consent_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Household Copy Table",
+      "targetId": "dawnkeep_copy_consent",
+      "visualId": "document",
+      "positionX": -0.6,
+      "positionY": -0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_aggregate_sheet_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Unsigned Hours Summary",
+      "targetId": "dawnkeep_aggregate_sheet",
+      "visualId": "noticeboard",
+      "positionX": 8.2,
+      "positionY": -2.5,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_sealed_packet_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Family Review Packets",
+      "targetId": "dawnkeep_sealed_family_packet",
+      "visualId": "sealed_case",
+      "positionX": -1.3,
+      "positionY": 4.25,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_access_log_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Mail Drawer Access Log",
+      "targetId": "dawnkeep_access_log",
+      "visualId": "document",
+      "positionX": -8.2,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_correction_slot_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Anonymous Correction Slot",
+      "targetId": "dawnkeep_correction_slot",
+      "visualId": "waymarker",
+      "positionX": 0.7,
+      "positionY": -3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "dawnkeep_copy_receipt_marker",
+      "locationId": "dawnkeep_barracks",
+      "displayName": "Copy Receipt Index",
+      "targetId": "dawnkeep_copy_receipt",
+      "visualId": "document",
+      "positionX": 6.4,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "greenwake_seed_access_slate_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Seed Access Consultation Slate",
+      "targetId": "greenwake_seed_access_slate",
+      "visualId": "seed_cradle",
+      "positionX": -7.5,
+      "positionY": -1.2,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_owen_signal_rubbing",
+      "locationId": "greenwake_refuge",
+      "displayName": "Owen's Signal Rubbing",
+      "targetId": "greenwake_owen_signal_rubbing",
+      "visualId": "document",
+      "positionX": -0.4,
+      "positionY": -0.5,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_west_root_frost",
+      "locationId": "greenwake_refuge",
+      "displayName": "West Root Frost Rings",
+      "targetId": "greenwake_west_root_frost",
+      "visualId": "stone_rill",
+      "positionX": -4.2,
+      "positionY": 0.8,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_route_overlay_copy",
+      "locationId": "greenwake_refuge",
+      "displayName": "Three-Source Chart Copy",
+      "targetId": "greenwake_route_overlay_copy",
+      "visualId": "cycle_tablet",
+      "positionX": 4.1,
+      "positionY": 0.6,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_chart_consultation",
+      "locationId": "greenwake_refuge",
+      "displayName": "Chart Access Consultation Board",
+      "targetId": "greenwake_chart_consultation",
+      "visualId": "noticeboard",
+      "positionX": 1.2,
+      "positionY": 4.2,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_map_release_receipt",
+      "locationId": "greenwake_refuge",
+      "displayName": "Map Copy Receipt Box",
+      "targetId": "greenwake_map_release_receipt",
+      "visualId": "document",
+      "positionX": 1.6,
+      "positionY": -3.8,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_outerwake_wind_trace",
+      "locationId": "outerwake_archive",
+      "displayName": "Wind Repeat Log Stand",
+      "targetId": "outerwake_greenwake_wind_trace",
+      "visualId": "document",
+      "positionX": 5.8,
+      "positionY": -1.7,
+      "scale": 0.09
+    },
+    {
+      "id": "side_gw_outerwake_star_overlay",
+      "locationId": "outerwake_archive",
+      "displayName": "Greenwake Chart Overlay",
+      "targetId": "outerwake_greenwake_star_overlay",
+      "visualId": "document",
+      "positionX": -3.4,
+      "positionY": -3.5,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_forecast_folio_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Forecast Folio with Missing Heading",
+      "targetId": "crownfall_forecast_folio",
+      "visualId": "document",
+      "positionX": 3.8,
+      "positionY": 2.6,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_grain_gauge_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Sliding Grain Measure",
+      "targetId": "crownfall_grain_gauge",
+      "visualId": "document",
+      "positionX": -5.8,
+      "positionY": 0.2,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_waterline_gauge_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Starlit Lake Waterline",
+      "targetId": "crownfall_waterline_gauge",
+      "visualId": "document",
+      "positionX": -6.2,
+      "positionY": 2.8,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_model_copy_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Folded Yield Directive Copy",
+      "targetId": "crownfall_model_copy",
+      "visualId": "document",
+      "positionX": 5.6,
+      "positionY": 0.4,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_yield_choice_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Forecast Review Desk",
+      "targetId": "crownfall_yield_choice",
+      "visualId": "document",
+      "positionX": 4.0,
+      "positionY": -0.7,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_range_noticeboard_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Open Measurement Table",
+      "targetId": "crownfall_range_noticeboard",
+      "visualId": "noticeboard",
+      "positionX": 5.8,
+      "positionY": -2.4,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_review_case_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Timebound Review Case",
+      "targetId": "crownfall_review_case",
+      "visualId": "sealed_case",
+      "positionX": 8.8,
+      "positionY": -3.5,
+      "scale": 0.09
+    },
+    {
+      "id": "crownfall_review_receipt_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Review Receipt and Date",
+      "targetId": "crownfall_review_receipt",
+      "visualId": "document",
+      "positionX": 4.1,
+      "positionY": 2.8,
+      "scale": 0.09
+    },
+    {
+      "id": "cinderwell_saltline_wrap_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Salt-Worn Seed Wrap",
+      "targetId": "cinderwell_seed_wrap",
+      "visualId": "document",
+      "positionX": 8.4,
+      "positionY": -1.5,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_salt_edge_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Salt Edge at the Lower Bed",
+      "targetId": "cinderwell_bed_salinity",
+      "visualId": "waymarker",
+      "positionX": -1.6,
+      "positionY": -3.4,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_wick_reading_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Wick Test Book",
+      "targetId": "cinderwell_wick_reading",
+      "visualId": "document",
+      "positionX": 4.0,
+      "positionY": -1.9,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_second_tray_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Second Germination Tray",
+      "targetId": "cinderwell_second_tray_record",
+      "visualId": "sealed_case",
+      "positionX": 4.4,
+      "positionY": 1.5,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_postflow_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "After-Flow Mark",
+      "targetId": "cinderwell_postflow_mark",
+      "visualId": "waymarker",
+      "positionX": 1.1,
+      "positionY": 3.8,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_experiment_choice_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Trial Design Slate",
+      "targetId": "cinderwell_saltline_test_choice",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 1.8,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_paired_beds_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Paired Bed Board",
+      "targetId": "cinderwell_paired_bed_board",
+      "visualId": "noticeboard",
+      "positionX": -8.0,
+      "positionY": -1.2,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_sheltered_tray_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Sheltered Tray Cabinet",
+      "targetId": "cinderwell_sheltered_tray_cabinet",
+      "visualId": "sealed_case",
+      "positionX": 8.4,
+      "positionY": 0.1,
+      "scale": 0.08
+    },
+    {
+      "id": "cinderwell_protocol_copy_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Repeatable Trial Protocol",
+      "targetId": "cinderwell_saltline_protocol_copy",
+      "visualId": "document",
+      "positionX": 5.6,
+      "positionY": 3.2,
+      "scale": 0.08
+    },
+    {
+      "id": "ashfall_signal_harper",
+      "locationId": "ashfall_village",
+      "displayName": "Harper Wills",
+      "targetId": "harper_wills",
+      "visualId": "wind_keeper",
+      "positionX": -7.0,
+      "positionY": 3.0,
+      "scale": 0.075
+    },
+    {
+      "id": "ashfall_signal_frame_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Khung Chuông Bỏ Không",
+      "targetId": "ashfall_signal_frame",
+      "visualId": "signal_frame",
+      "positionX": 5.8,
+      "positionY": 2.0,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_vane_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Mũi Gió Trên Khung",
+      "targetId": "ashfall_signal_vane",
+      "visualId": "signal_vane",
+      "positionX": 8.8,
+      "positionY": 2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_chalk_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Vạch Dấu Trên Đá Ướt",
+      "targetId": "ashfall_signal_mark",
+      "visualId": "signal_mark",
+      "positionX": -0.6,
+      "positionY": -2.3,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_well_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Mép Giếng Phía Đông",
+      "targetId": "ashfall_signal_well",
+      "visualId": "signal_well",
+      "positionX": -1.3,
+      "positionY": 3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_ridge_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Gò Thử Tầm Nhìn",
+      "targetId": "ashfall_signal_ridge",
+      "visualId": "signal_ridge",
+      "positionX": 10.0,
+      "positionY": -2.0,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_bell_test_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Chuông Thử Trên Khung",
+      "targetId": "ashfall_signal_bell_test",
+      "visualId": "signal_bell_test",
+      "positionX": 6.8,
+      "positionY": -3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_signal_flag_test_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Cờ Tam Giác Thử Nghiệm",
+      "targetId": "ashfall_signal_flag_test",
+      "visualId": "signal_flag_test",
+      "positionX": -9.0,
+      "positionY": -0.2,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_muster_board_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Bảng tập hợp sau mưa",
+      "targetId": "ashfall_muster_board",
+      "visualId": "noticeboard",
+      "positionX": -5.8,
+      "positionY": 1.9,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_shelter_cloth_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Tấm bạt vá mái hầm",
+      "targetId": "ashfall_shelter_cloth",
+      "visualId": "document",
+      "positionX": 4.2,
+      "positionY": -3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_departure_plan_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Kẹp lưu bản đồ rời làng",
+      "targetId": "ashfall_departure_plan",
+      "visualId": "noticeboard",
+      "positionX": -6.0,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_expedition_case_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Survey Return Case",
+      "targetId": "jace_expedition_case",
+      "visualId": "sealed_case",
+      "positionX": -0.2,
+      "positionY": -4.2,
+      "scale": 0.09
+    },
+    {
+      "id": "jace_roster_cut_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Felt Crew Insert",
+      "targetId": "jace_roster_cut",
+      "visualId": "document",
+      "positionX": 2.8,
+      "positionY": 3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_signed_draft_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Overwritten Field Report",
+      "targetId": "jace_signed_draft",
+      "visualId": "document",
+      "positionX": -3.8,
+      "positionY": -1.2,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_statement_desk_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Statement Copy Desk",
+      "targetId": "jace_statement_desk",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": 0.9,
+      "scale": 0.09
+    },
+    {
+      "id": "jace_signed_copy_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Signed Account Copy",
+      "targetId": "jace_signed_copy",
+      "visualId": "document",
+      "positionX": -9.2,
+      "positionY": 4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_method_packet_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Wind Trial Method Packet",
+      "targetId": "jace_method_packet",
+      "visualId": "document",
+      "positionX": 9.2,
+      "positionY": 4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "lyra_song_return_table_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Lyra’s Song Return Table",
+      "targetId": "lyra_song_return_table",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": -4.7,
+      "scale": 0.085
+    },
+    {
+      "id": "lyra_public_stanza_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Optional Listening Notice",
+      "targetId": "lyra_public_stanza",
+      "visualId": "document",
+      "positionX": -9.1,
+      "positionY": 4.4,
+      "scale": 0.085
+    },
+    {
+      "id": "lyra_private_verse_case_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Private Verse Case",
+      "targetId": "lyra_private_verse_case",
+      "visualId": "sealed_case",
+      "positionX": 9.2,
+      "positionY": -4.6,
+      "scale": 0.085
+    },
+    {
+      "id": "greenwake_glassplum_graft_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Unmarked Glassplum Graft",
+      "targetId": "greenwake_glassplum_graft",
+      "visualId": "root_graft",
+      "positionX": 9.6,
+      "positionY": 0.8,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_graft_public_charter_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Glassplum Seed Charter",
+      "targetId": "greenwake_graft_public_charter",
+      "visualId": "noticeboard",
+      "positionX": -9.4,
+      "positionY": 4.4,
+      "scale": 0.09
+    },
+    {
+      "id": "greenwake_graft_private_case_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Rootstock Review Case",
+      "targetId": "greenwake_graft_private_case",
+      "visualId": "sealed_case",
+      "positionX": 9.6,
+      "positionY": -1.0,
+      "scale": 0.09
+    },
+    {
+      "id": "alden_watch_ledger_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Watch Rotation Ledger",
+      "targetId": "alden_watch_ledger",
+      "visualId": "document",
+      "positionX": 1.0,
+      "positionY": 4.4,
+      "scale": 0.085
+    },
+    {
+      "id": "alden_watch_return_table_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Watch Ledger Return Table",
+      "targetId": "alden_watch_return_table",
+      "visualId": "noticeboard",
+      "positionX": -1.2,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "alden_optin_roll_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Opt-in Shift Roll",
+      "targetId": "alden_optin_roll",
+      "visualId": "document",
+      "positionX": -9.7,
+      "positionY": -2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "alden_household_packet_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Household Shift Packet",
+      "targetId": "alden_household_packet",
+      "visualId": "sealed_case",
+      "positionX": 9.4,
+      "positionY": -2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_wheel_bearing_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Three-Tooth Bearing",
+      "targetId": "cinder_wheel_bearing",
+      "visualId": "sluice_wheel",
+      "positionX": -5.8,
+      "positionY": 3.2,
+      "scale": 0.09
+    },
+    {
+      "id": "cinder_pressure_marks_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Pressure Chalk Marks",
+      "targetId": "cinder_pressure_marks",
+      "visualId": "pressure_gauge",
+      "positionX": -1.0,
+      "positionY": 4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_backwash_wall_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Backwash Wall",
+      "targetId": "cinder_backwash_wall",
+      "visualId": "document",
+      "positionX": 5.4,
+      "positionY": 4.15,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_pressure_lens_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Pressure Lens Fragment",
+      "targetId": "cinder_pressure_lens",
+      "visualId": "filter_housing",
+      "positionX": 7.3,
+      "positionY": 1.2,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_filter_housing_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Membrane Test Housing",
+      "targetId": "cinder_filter_housing",
+      "visualId": "filter_housing",
+      "positionX": 4.1,
+      "positionY": 1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_pressure_dial_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Return-to-Zero Dial",
+      "targetId": "cinder_pressure_dial",
+      "visualId": "pressure_gauge",
+      "positionX": 0.5,
+      "positionY": -2.3,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_ratchet_bracket_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Travel-Limit Ratchet",
+      "targetId": "cinder_ratchet_bracket",
+      "visualId": "sluice_wheel",
+      "positionX": -5.6,
+      "positionY": -1.6,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_shared_rill_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Public Rill Stop",
+      "targetId": "cinder_shared_rill_tap",
+      "visualId": "pressure_gauge",
+      "positionX": 8.2,
+      "positionY": 3.2,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_steward_schedule_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Steward Handover Board",
+      "targetId": "cinder_steward_schedule",
+      "visualId": "noticeboard",
+      "positionX": 7.2,
+      "positionY": -4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "cinder_bypass_policy_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Bypass Policy Draft",
+      "targetId": "cinder_bypass_plan",
+      "visualId": "noticeboard",
+      "positionX": -7.7,
+      "positionY": 3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_milepost_cracks_marker",
+      "locationId": "salt_road",
+      "displayName": "Three Bent Milepost Pins",
+      "targetId": "saltroad_milepost_cracks",
+      "visualId": "waymarker",
+      "positionX": -1.2,
+      "positionY": 3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_storm_table_marker",
+      "locationId": "salt_road",
+      "displayName": "Incomplete Storm Dial",
+      "targetId": "saltroad_storm_table",
+      "visualId": "pressure_gauge",
+      "positionX": 1.0,
+      "positionY": 4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_beacon_mount_marker",
+      "locationId": "salt_road",
+      "displayName": "Dry Signal Bracket",
+      "targetId": "saltroad_beacon_mount",
+      "visualId": "signal_frame",
+      "positionX": 9.0,
+      "positionY": -0.7,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_beacon_range_marker",
+      "locationId": "salt_road",
+      "displayName": "Ridge Observation Point",
+      "targetId": "saltroad_beacon_range",
+      "visualId": "signal_vane",
+      "positionX": -9.1,
+      "positionY": -0.4,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_signal_policy_marker",
+      "locationId": "salt_road",
+      "displayName": "Milepost Operating Board",
+      "targetId": "saltroad_signal_policy",
+      "visualId": "noticeboard",
+      "positionX": 4.8,
+      "positionY": 4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_dayline_sheet_marker",
+      "locationId": "salt_road",
+      "displayName": "Public Dayline Sheet",
+      "targetId": "saltroad_dayline_sheet",
+      "visualId": "waymarker",
+      "positionX": -8.1,
+      "positionY": -3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "saltroad_callkeeper_rota_marker",
+      "locationId": "salt_road",
+      "displayName": "Night Callkeeper Rota",
+      "targetId": "saltroad_callkeeper_rota",
+      "visualId": "noticeboard",
+      "positionX": 7.3,
+      "positionY": -4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "tamsin_wren_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Tamsin Wren",
+      "targetId": "tamsin_wren",
+      "visualId": "choir_diver",
+      "positionX": 5.1,
+      "positionY": -1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_signal_bearing_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Tilted Bell Bearing",
+      "targetId": "choir_signal_bearing",
+      "visualId": "document",
+      "positionX": -1.3,
+      "positionY": 3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_signal_channel_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Submerged Resonance Channel",
+      "targetId": "choir_signal_channel",
+      "visualId": "signal_frame",
+      "positionX": 3.0,
+      "positionY": -4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_signal_housing_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "West Practice Warning Frame",
+      "targetId": "choir_signal_housing",
+      "visualId": "signal_frame",
+      "positionX": 6.2,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_signal_trial_table_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Pressure Trial Sheet",
+      "targetId": "choir_signal_trial_table",
+      "visualId": "document",
+      "positionX": -5.8,
+      "positionY": -4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_signal_design_table_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Warning Rhythm Board",
+      "targetId": "choir_signal_design_table",
+      "visualId": "noticeboard",
+      "positionX": -10.4,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_bell_pair_pattern_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Paired Bell Pattern Plate",
+      "targetId": "choir_bell_pair_pattern",
+      "visualId": "signal_bell_test",
+      "positionX": 8.7,
+      "positionY": 1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "choir_paired_light_pattern_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Paired Light Service Sheet",
+      "targetId": "choir_paired_light_pattern",
+      "visualId": "signal_flag_test",
+      "positionX": -10.3,
+      "positionY": -1.4,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_shift_notes_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Garden Shift Slate",
+      "targetId": "elara_garden_shift_notes",
+      "visualId": "document",
+      "positionX": -3.4,
+      "positionY": 3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_drain_frame_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Bent East Gutter Frame",
+      "targetId": "elara_garden_drain_frame",
+      "visualId": "door_brace",
+      "positionX": 0.7,
+      "positionY": -1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_level_board_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Garden Waterline Board",
+      "targetId": "elara_garden_level_board",
+      "visualId": "stone_rill",
+      "positionX": 6.8,
+      "positionY": 3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_rain_housing_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "East Gutter Clip Frame",
+      "targetId": "elara_garden_rain_housing",
+      "visualId": "signal_frame",
+      "positionX": 2.0,
+      "positionY": 3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_trial_sheet_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Catch Pocket Trial Sheet",
+      "targetId": "elara_garden_trial_sheet",
+      "visualId": "document",
+      "positionX": 8.6,
+      "positionY": 1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_policy_board_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Garden Care Board",
+      "targetId": "elara_garden_policy_board",
+      "visualId": "noticeboard",
+      "positionX": -2.1,
+      "positionY": -4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_shared_bed_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Open Garden Row Sheet",
+      "targetId": "elara_garden_shared_bed_plan",
+      "visualId": "seed_cradle",
+      "positionX": 5.3,
+      "positionY": -4.4,
+      "scale": 0.085
+    },
+    {
+      "id": "elara_garden_rotation_plan_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Changeable Garden Turns",
+      "targetId": "elara_garden_rotation_plan",
+      "visualId": "herb_ledger",
+      "positionX": -10.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_001_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 01",
+      "targetId": "hero_legacy_001_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_002_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 02",
+      "targetId": "hero_legacy_002_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_003_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 03",
+      "targetId": "hero_legacy_003_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_004_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 04",
+      "targetId": "hero_legacy_004_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_005_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 05",
+      "targetId": "hero_legacy_005_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_006_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 06",
+      "targetId": "hero_legacy_006_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_007_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 07",
+      "targetId": "hero_legacy_007_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_008_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 08",
+      "targetId": "hero_legacy_008_record",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_009_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 09",
+      "targetId": "hero_legacy_009_record",
+      "visualId": "noticeboard",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_010_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 10",
+      "targetId": "hero_legacy_010_record",
+      "visualId": "herb_ledger",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_011_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 11",
+      "targetId": "hero_legacy_011_record",
+      "visualId": "seed_cradle",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_012_marker",
+      "locationId": "last_oath_reach",
+      "displayName": "Century Archive Fragment 12",
+      "targetId": "hero_legacy_012_record",
+      "visualId": "stone_rill",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_013_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 13",
+      "targetId": "hero_legacy_013_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_014_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 14",
+      "targetId": "hero_legacy_014_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_015_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 15",
+      "targetId": "hero_legacy_015_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_016_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 16",
+      "targetId": "hero_legacy_016_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_017_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 17",
+      "targetId": "hero_legacy_017_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_018_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 18",
+      "targetId": "hero_legacy_018_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_019_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 19",
+      "targetId": "hero_legacy_019_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_020_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 20",
+      "targetId": "hero_legacy_020_record",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_021_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 21",
+      "targetId": "hero_legacy_021_record",
+      "visualId": "noticeboard",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_022_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 22",
+      "targetId": "hero_legacy_022_record",
+      "visualId": "herb_ledger",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_023_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 23",
+      "targetId": "hero_legacy_023_record",
+      "visualId": "seed_cradle",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_024_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Century Archive Fragment 24",
+      "targetId": "hero_legacy_024_record",
+      "visualId": "stone_rill",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_025_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 25",
+      "targetId": "hero_legacy_025_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_026_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 26",
+      "targetId": "hero_legacy_026_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_027_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 27",
+      "targetId": "hero_legacy_027_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_028_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 28",
+      "targetId": "hero_legacy_028_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_029_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 29",
+      "targetId": "hero_legacy_029_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_030_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 30",
+      "targetId": "hero_legacy_030_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_031_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 31",
+      "targetId": "hero_legacy_031_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_032_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 32",
+      "targetId": "hero_legacy_032_record",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_033_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 33",
+      "targetId": "hero_legacy_033_record",
+      "visualId": "noticeboard",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_034_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 34",
+      "targetId": "hero_legacy_034_record",
+      "visualId": "herb_ledger",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_035_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 35",
+      "targetId": "hero_legacy_035_record",
+      "visualId": "seed_cradle",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_036_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 36",
+      "targetId": "hero_legacy_036_record",
+      "visualId": "stone_rill",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_037_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Century Archive Fragment 37",
+      "targetId": "hero_legacy_037_record",
+      "visualId": "document",
+      "positionX": 0.0,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_038_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 38",
+      "targetId": "hero_legacy_038_record",
+      "visualId": "sealed_case",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_039_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 39",
+      "targetId": "hero_legacy_039_record",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_040_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 40",
+      "targetId": "hero_legacy_040_record",
+      "visualId": "herb_ledger",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_041_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 41",
+      "targetId": "hero_legacy_041_record",
+      "visualId": "seed_cradle",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_042_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 42",
+      "targetId": "hero_legacy_042_record",
+      "visualId": "stone_rill",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_043_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 43",
+      "targetId": "hero_legacy_043_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_044_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 44",
+      "targetId": "hero_legacy_044_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_045_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 45",
+      "targetId": "hero_legacy_045_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_046_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 46",
+      "targetId": "hero_legacy_046_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_047_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 47",
+      "targetId": "hero_legacy_047_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_048_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 48",
+      "targetId": "hero_legacy_048_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_049_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Century Archive Fragment 49",
+      "targetId": "hero_legacy_049_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_050_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 50",
+      "targetId": "hero_legacy_050_record",
+      "visualId": "sealed_case",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_051_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 51",
+      "targetId": "hero_legacy_051_record",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_052_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 52",
+      "targetId": "hero_legacy_052_record",
+      "visualId": "herb_ledger",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_053_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 53",
+      "targetId": "hero_legacy_053_record",
+      "visualId": "seed_cradle",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_054_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 54",
+      "targetId": "hero_legacy_054_record",
+      "visualId": "stone_rill",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_055_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 55",
+      "targetId": "hero_legacy_055_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_056_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 56",
+      "targetId": "hero_legacy_056_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_057_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 57",
+      "targetId": "hero_legacy_057_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_058_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 58",
+      "targetId": "hero_legacy_058_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_059_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 59",
+      "targetId": "hero_legacy_059_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_060_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 60",
+      "targetId": "hero_legacy_060_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_061_marker",
+      "locationId": "salt_road",
+      "displayName": "Century Archive Fragment 61",
+      "targetId": "hero_legacy_061_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_062_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 62",
+      "targetId": "hero_legacy_062_record",
+      "visualId": "sealed_case",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_063_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 63",
+      "targetId": "hero_legacy_063_record",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_064_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 64",
+      "targetId": "hero_legacy_064_record",
+      "visualId": "herb_ledger",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_065_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 65",
+      "targetId": "hero_legacy_065_record",
+      "visualId": "seed_cradle",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_066_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 66",
+      "targetId": "hero_legacy_066_record",
+      "visualId": "stone_rill",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_067_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 67",
+      "targetId": "hero_legacy_067_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_068_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 68",
+      "targetId": "hero_legacy_068_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_069_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 69",
+      "targetId": "hero_legacy_069_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_070_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 70",
+      "targetId": "hero_legacy_070_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_071_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 71",
+      "targetId": "hero_legacy_071_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_072_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 72",
+      "targetId": "hero_legacy_072_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_073_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Century Archive Fragment 73",
+      "targetId": "hero_legacy_073_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_074_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 74",
+      "targetId": "hero_legacy_074_record",
+      "visualId": "sealed_case",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_075_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 75",
+      "targetId": "hero_legacy_075_record",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_076_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 76",
+      "targetId": "hero_legacy_076_record",
+      "visualId": "herb_ledger",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_077_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 77",
+      "targetId": "hero_legacy_077_record",
+      "visualId": "seed_cradle",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_078_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 78",
+      "targetId": "hero_legacy_078_record",
+      "visualId": "stone_rill",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_079_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 79",
+      "targetId": "hero_legacy_079_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_080_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 80",
+      "targetId": "hero_legacy_080_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_081_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 81",
+      "targetId": "hero_legacy_081_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_082_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 82",
+      "targetId": "hero_legacy_082_record",
+      "visualId": "herb_ledger",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_083_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 83",
+      "targetId": "hero_legacy_083_record",
+      "visualId": "seed_cradle",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_084_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 84",
+      "targetId": "hero_legacy_084_record",
+      "visualId": "stone_rill",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_085_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 85",
+      "targetId": "hero_legacy_085_record",
+      "visualId": "document",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_086_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Century Archive Fragment 86",
+      "targetId": "hero_legacy_086_record",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_087_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 87",
+      "targetId": "hero_legacy_087_record",
+      "visualId": "noticeboard",
+      "positionX": -8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_088_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 88",
+      "targetId": "hero_legacy_088_record",
+      "visualId": "herb_ledger",
+      "positionX": -4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_089_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 89",
+      "targetId": "hero_legacy_089_record",
+      "visualId": "seed_cradle",
+      "positionX": 0.0,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_090_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 90",
+      "targetId": "hero_legacy_090_record",
+      "visualId": "stone_rill",
+      "positionX": 4.2,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_091_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 91",
+      "targetId": "hero_legacy_091_record",
+      "visualId": "document",
+      "positionX": 8.4,
+      "positionY": 3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_092_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 92",
+      "targetId": "hero_legacy_092_record",
+      "visualId": "sealed_case",
+      "positionX": -8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_093_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 93",
+      "targetId": "hero_legacy_093_record",
+      "visualId": "noticeboard",
+      "positionX": -4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_094_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 94",
+      "targetId": "hero_legacy_094_record",
+      "visualId": "herb_ledger",
+      "positionX": 0.0,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_095_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 95",
+      "targetId": "hero_legacy_095_record",
+      "visualId": "seed_cradle",
+      "positionX": 4.2,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_096_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 96",
+      "targetId": "hero_legacy_096_record",
+      "visualId": "stone_rill",
+      "positionX": 8.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_097_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 97",
+      "targetId": "hero_legacy_097_record",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_098_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 98",
+      "targetId": "hero_legacy_098_record",
+      "visualId": "sealed_case",
+      "positionX": -4.2,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "hero_legacy_099_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Century Archive Fragment 99",
+      "targetId": "hero_legacy_099_record",
+      "visualId": "noticeboard",
+      "positionX": 0.0,
+      "positionY": -1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_projection_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Three Curves, One Missing Column",
+      "targetId": "capacity_projection_board",
+      "visualId": "document",
+      "positionX": -7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_clock_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "The Uncorrected Interval",
+      "targetId": "capacity_clock_register",
+      "visualId": "document",
+      "positionX": -2.4,
+      "positionY": -1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_seedledger_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "The Reserve in the Margin",
+      "targetId": "capacity_seed_exchange_ledger",
+      "visualId": "seed_cradle",
+      "positionX": -7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_wellmarks_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "The Well Marks Do Not Agree",
+      "targetId": "capacity_greenwake_well_marks",
+      "visualId": "stone_rill",
+      "positionX": -2.4,
+      "positionY": -1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_listening_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "A Pause in the Score",
+      "targetId": "capacity_choir_score_margin",
+      "visualId": "document",
+      "positionX": -7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_color_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Color inside the Cup",
+      "targetId": "capacity_brine_sample_card",
+      "visualId": "document",
+      "positionX": -7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_waterline_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "The Line under the Barracks Step",
+      "targetId": "capacity_dawnkeep_waterline",
+      "visualId": "stone_rill",
+      "positionX": -7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_compare_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "The Curve with Its Margins Restored",
+      "targetId": "capacity_model_final_board",
+      "visualId": "document",
+      "positionX": 2.4,
+      "positionY": -3.4,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_publish_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Publish the Bounded Range",
+      "targetId": "capacity_public_noticeboard",
+      "visualId": "noticeboard",
+      "positionX": 7.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "capacity_restricted_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "Publish the Method, Hold the Totals",
+      "targetId": "capacity_method_review_case",
+      "visualId": "sealed_case",
+      "positionX": -7.0,
+      "positionY": -1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_margin_marker",
+      "locationId": "salt_road",
+      "displayName": "The Fold under the Axle Strap",
+      "targetId": "ruth_axle_dispatch_margin",
+      "visualId": "document",
+      "positionX": -8.6,
+      "positionY": 2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_pass_marker",
+      "locationId": "salt_road",
+      "displayName": "The Card Edge with Two Notches",
+      "targetId": "nella_pass_card_notches",
+      "visualId": "waymarker",
+      "positionX": -4.8,
+      "positionY": -3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_bell_marker",
+      "locationId": "salt_road",
+      "displayName": "The Toll Bell's Second Shell",
+      "targetId": "ruth_toll_bell_shell",
+      "visualId": "document",
+      "positionX": 0.0,
+      "positionY": 3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_filament_marker",
+      "locationId": "salt_road",
+      "displayName": "The Filament in the Casing",
+      "targetId": "ruth_roadglass_filament",
+      "visualId": "sealed_case",
+      "positionX": 8.6,
+      "positionY": -3.4,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_reverse_marker",
+      "locationId": "salt_lockhouse",
+      "displayName": "The Order's Torn Reverse",
+      "targetId": "ruth_manifest_reverse",
+      "visualId": "document",
+      "positionX": -4.6,
+      "positionY": 2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_signal_marker",
+      "locationId": "salt_road",
+      "displayName": "The Sighting Gap on the Sketch",
+      "targetId": "silas_signal_sightline_gap",
+      "visualId": "waymarker",
+      "positionX": 4.1,
+      "positionY": 2.9,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_ruth_sign_marker",
+      "locationId": "salt_road",
+      "displayName": "Ruth Signs First",
+      "targetId": "ruth_signed_addendum",
+      "visualId": "noticeboard",
+      "positionX": -7.0,
+      "positionY": -2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_recall_joint_sign_marker",
+      "locationId": "salt_road",
+      "displayName": "Nella Countersigns Her View",
+      "targetId": "nella_joint_witness_copy",
+      "visualId": "sealed_case",
+      "positionX": 5.7,
+      "positionY": 3.2,
+      "scale": 0.085
+    },
+    {
+      "id": "ruth_manifest_lightbox_marker",
+      "locationId": "salt_lockhouse",
+      "displayName": "Axle Copy Light Box",
+      "targetId": "ruth_manifest_lightbox",
+      "visualId": "document",
+      "positionX": 2.1,
+      "positionY": 3.5,
+      "scale": 0.09
+    },
+    {
+      "id": "nella_missing_return_mark_marker",
+      "locationId": "salt_road",
+      "displayName": "The Salt Mark on the Return Rail",
+      "targetId": "pike_tag_return_mark",
+      "visualId": "document",
+      "positionX": -2.7,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_fiber_check_marker",
+      "locationId": "salt_road",
+      "displayName": "The Fiber Must Release Cleanly",
+      "targetId": "pike_windglass_fiber_sample",
+      "visualId": "sealed_case",
+      "positionX": 9.0,
+      "positionY": 2.0,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_seal_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Unmarked Family Seal",
+      "targetId": "pike_name_seal_rule",
+      "visualId": "noticeboard",
+      "positionX": 0.3,
+      "positionY": 3.0,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_install_marker",
+      "locationId": "salt_lockhouse",
+      "displayName": "Fit the Sleeve without Closing the Case",
+      "targetId": "pike_tag_sleeve_frame",
+      "visualId": "document",
+      "positionX": 4.8,
+      "positionY": 1.7,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_sightline_marker",
+      "locationId": "salt_road",
+      "displayName": "The Unseen Road on the Sketch",
+      "targetId": "pike_signal_gap_sketch",
+      "visualId": "waymarker",
+      "positionX": -6.0,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_policy_marker",
+      "locationId": "salt_road",
+      "displayName": "How Should the Archive Hold the Gap?",
+      "targetId": "pike_archive_policy",
+      "visualId": "noticeboard",
+      "positionX": 3.5,
+      "positionY": 0.5,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_public_margin_marker",
+      "locationId": "salt_road",
+      "displayName": "Publish the Method, Keep the Name Blank",
+      "targetId": "pike_public_margin",
+      "visualId": "sealed_case",
+      "positionX": -6.4,
+      "positionY": -1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "nella_missing_family_copy_marker",
+      "locationId": "salt_road",
+      "displayName": "Reserve the Copy for the Family",
+      "targetId": "pike_family_review_copy",
+      "visualId": "sealed_case",
+      "positionX": 3.8,
+      "positionY": 0.0,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_hearth_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Hearth Has a Split Lip",
+      "targetId": "june_kitchen_hearth",
+      "visualId": "kitchen_hearth",
+      "positionX": 7.1,
+      "positionY": 2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_grindstone_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Millstone Still Turns",
+      "targetId": "june_kitchen_millstone",
+      "visualId": "kitchen_millstone",
+      "positionX": 5.2,
+      "positionY": -0.2,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_sample_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Taste Before the Shift Changes",
+      "targetId": "june_broth_sample",
+      "visualId": "broth_sample",
+      "positionX": 6.0,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_choice_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Who Gets the First Bowl?",
+      "targetId": "june_service_priority",
+      "visualId": "noticeboard",
+      "positionX": 0.2,
+      "positionY": -4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_table_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "A Bowl at the Common Table",
+      "targetId": "june_common_table",
+      "visualId": "common_table",
+      "positionX": 7.4,
+      "positionY": -3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "june_stonepot_departure_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "A Bowl Packed for the Road",
+      "targetId": "june_departure_crate",
+      "visualId": "sealed_case",
+      "positionX": 5.8,
+      "positionY": 3.4,
+      "scale": 0.085
+    },
+    {
+      "id": "ashfall_cart_wheel_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Bánh xe moay-ơ nứt",
+      "targetId": "ashfall_cart_wheel",
+      "visualId": "cart_wheel",
+      "positionX": 7.4,
+      "positionY": 1.7,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_east_rut_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Rãnh xe phía đông",
+      "targetId": "ashfall_cart_east_rut",
+      "visualId": "cart_rut",
+      "positionX": 8.8,
+      "positionY": 0.4,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_salvage_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Đống sắt và nan gỗ",
+      "targetId": "ashfall_cart_salvage",
+      "visualId": "cart_spokes",
+      "positionX": 1.8,
+      "positionY": -4.45,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_test_lane_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Đoạn đường thử xe",
+      "targetId": "ashfall_cart_test_lane",
+      "visualId": "cart_test",
+      "positionX": 8.5,
+      "positionY": -1.1,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_shared_bay_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Chỗ đỗ xe chung",
+      "targetId": "ashfall_cart_shared_bay",
+      "visualId": "cart_bay",
+      "positionX": -6.3,
+      "positionY": 3.7,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_turning_arc_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Vạch bán kính quay",
+      "targetId": "ashfall_cart_turning_arc",
+      "visualId": "cart_test",
+      "positionX": 0.9,
+      "positionY": -4.6,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_kit_table_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Bàn bộ sửa có thể tháo",
+      "targetId": "ashfall_cart_kit_table",
+      "visualId": "cart_kit",
+      "positionX": 5.6,
+      "positionY": 3.8,
+      "scale": 0.09
+    },
+    {
+      "id": "ashfall_cart_household_load_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Giá thử bánh xe rời",
+      "targetId": "ashfall_cart_household_load",
+      "visualId": "cart_test",
+      "positionX": -8.9,
+      "positionY": -2.8,
+      "scale": 0.09
+    },
+    {
+      "id": "tomas_cart_dimensions_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Tomas Reed và thước vai chốt",
+      "targetId": "tomas_cart_dimensions",
+      "visualId": "tomas_reed",
+      "positionX": 4.4,
+      "positionY": 0.15,
+      "scale": 0.09
+    },
+    {
+      "id": "dawnkeep_spare_spokes_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Nan thẳng trong kho thợ rèn",
+      "targetId": "dawnkeep_spare_spokes",
+      "visualId": "cart_spokes",
+      "positionX": 7.9,
+      "positionY": 1.3,
+      "scale": 0.09
+    },
+    {
+      "id": "atlas_master_gauge_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "Notches Removed from the Master Gauge",
+      "targetId": "atlas_master_gauge",
+      "visualId": "document",
+      "positionX": 3.4,
+      "positionY": 1.9,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_cart_marker",
+      "locationId": "ashfall_village",
+      "displayName": "One Cart Is One Measurement",
+      "targetId": "atlas_cart_comparison",
+      "visualId": "document",
+      "positionX": -8.7,
+      "positionY": 1.9,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_cup_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "A Matched Pair Does Not Describe a Basin",
+      "targetId": "atlas_matched_cup",
+      "visualId": "document",
+      "positionX": -2.8,
+      "positionY": -2.3,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_fit_test_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Gauge Found a Difference",
+      "targetId": "regional_jaw_test",
+      "visualId": "document",
+      "positionX": 5.6,
+      "positionY": 1.7,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_stem_fit_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "An Adjustment with a Review Date",
+      "targetId": "atlas_graft_fit",
+      "visualId": "document",
+      "positionX": -2.4,
+      "positionY": 1.1,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_sound_card_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Resonance Card with Its Room Attached",
+      "targetId": "atlas_resonance_card",
+      "visualId": "document",
+      "positionX": -2.8,
+      "positionY": -0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_bracket_marker",
+      "locationId": "salt_road",
+      "displayName": "Wear Does Not Carry a Date",
+      "targetId": "atlas_milepost_bracket",
+      "visualId": "document",
+      "positionX": -1.0,
+      "positionY": 2.1,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_margin_marker",
+      "locationId": "outerwake_archive",
+      "displayName": "A Difference Left in the Record",
+      "targetId": "atlas_calibration_margin",
+      "visualId": "document",
+      "positionX": 3.3,
+      "positionY": 1.2,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_policy_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "The Atlas Decision",
+      "targetId": "atlas_policy_table",
+      "visualId": "noticeboard",
+      "positionX": 3.1,
+      "positionY": -3.0,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_field_copy_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "A Foldout that Carries Its Limits",
+      "targetId": "atlas_field_copy",
+      "visualId": "document",
+      "positionX": -7.5,
+      "positionY": -3.4,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_local_pages_marker",
+      "locationId": "dawnkeep_outpost",
+      "displayName": "A Margin for Local Practice",
+      "targetId": "atlas_local_pages",
+      "visualId": "sealed_case",
+      "positionX": 7.3,
+      "positionY": -2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_wall_sill_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Chân móng phía đông",
+      "targetId": "pella_wall_sill",
+      "visualId": "stone_rill",
+      "positionX": 9.1,
+      "positionY": -2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_mortar_record_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Mặt gãy trong đất ẩm",
+      "targetId": "pella_mortar_record",
+      "visualId": "document",
+      "positionX": 5.5,
+      "positionY": -4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_growth_ring_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Vòng tăng trưởng",
+      "targetId": "pella_growth_ring",
+      "visualId": "document",
+      "positionX": 1.7,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_mite_residue_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Khay sợi mắc ở đá",
+      "targetId": "pella_mite_residue",
+      "visualId": "sealed_case",
+      "positionX": -7.0,
+      "positionY": -4.6,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_cinderwell_stone_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Bậc đá cũ",
+      "targetId": "pella_cinderwell_stone",
+      "visualId": "document",
+      "positionX": 1.1,
+      "positionY": 2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_cistern_survey_marker",
+      "locationId": "cinder_cistern",
+      "displayName": "Sơ đồ lật mặt",
+      "targetId": "pella_cistern_survey",
+      "visualId": "sealed_case",
+      "positionX": -2.4,
+      "positionY": -2.5,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_old_workorder_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Phiếu sửa dở dang",
+      "targetId": "pella_old_workorder",
+      "visualId": "document",
+      "positionX": 6.0,
+      "positionY": 4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_two_bed_reading_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Bảng đo hai luống",
+      "targetId": "pella_two_bed_reading",
+      "visualId": "cycle_tablet",
+      "positionX": -2.6,
+      "positionY": -3.2,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_rootwall_joint_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Khớp tường rễ",
+      "targetId": "pella_rootwall_joint",
+      "visualId": "rootwall_joint",
+      "positionX": -9.1,
+      "positionY": -2.5,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_hinge_gap_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Vạch khe bản lề",
+      "targetId": "pella_hinge_gap",
+      "visualId": "stone_rill",
+      "positionX": -9.2,
+      "positionY": 2.3,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_hinge_flow_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Phiến thử dòng nước",
+      "targetId": "pella_hinge_flow",
+      "visualId": "document",
+      "positionX": -4.9,
+      "positionY": 1.0,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_hinge_review_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Lịch bảo trì dưới mái",
+      "targetId": "pella_hinge_review",
+      "visualId": "noticeboard",
+      "positionX": 2.8,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_slot_ticks_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Ba vạch trên chêm",
+      "targetId": "pella_slot_ticks",
+      "visualId": "document",
+      "positionX": -9.0,
+      "positionY": 2.5,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_slot_calendar_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Lịch quan sát rễ",
+      "targetId": "pella_slot_calendar",
+      "visualId": "cycle_tablet",
+      "positionX": 3.8,
+      "positionY": -2.1,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_slot_handoff_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Hộp dụng cụ có sổ",
+      "targetId": "pella_slot_handoff",
+      "visualId": "sealed_case",
+      "positionX": -7.0,
+      "positionY": 2.9,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_quinn_actor",
+      "locationId": "greenwake_refuge",
+      "displayName": "Pella Quinn",
+      "targetId": "pella_quinn",
+      "visualId": "pella_quinn",
+      "positionX": 4.7,
+      "positionY": 1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "pella_policy_board_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "Bảng phương án gia cố",
+      "targetId": "pella_rootwall_policy_board",
+      "visualId": "noticeboard",
+      "positionX": -1.8,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_crest_marker",
+      "locationId": "salt_road",
+      "displayName": "The Crest Hides the Lower Mile",
+      "targetId": "silas_arrow_crest_line",
+      "visualId": "waymarker",
+      "positionX": -4.8,
+      "positionY": 3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_bend_marker",
+      "locationId": "salt_road",
+      "displayName": "The Bend Behind the Salt Shelf",
+      "targetId": "silas_arrow_blind_bend",
+      "visualId": "waymarker",
+      "positionX": -1.9,
+      "positionY": -3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_backstop_marker",
+      "locationId": "salt_road",
+      "displayName": "The Practice Stone Keeps a Scar",
+      "targetId": "silas_arrow_backstop",
+      "visualId": "signal_mark",
+      "positionX": 1.7,
+      "positionY": 3.1,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_range_marker",
+      "locationId": "salt_road",
+      "displayName": "A Target for the Present Day",
+      "targetId": "silas_arrow_test_target",
+      "visualId": "signal_mark",
+      "positionX": 5.5,
+      "positionY": -1.4,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_route_card_marker",
+      "locationId": "salt_road",
+      "displayName": "Four Facts and Several Missing Views",
+      "targetId": "silas_arrow_fact_card",
+      "visualId": "document",
+      "positionX": 3.8,
+      "positionY": 1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_public_board_marker",
+      "locationId": "salt_road",
+      "displayName": "Leave the Family Names off the Board",
+      "targetId": "silas_arrow_public_board",
+      "visualId": "noticeboard",
+      "positionX": -6.2,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_public_method_marker",
+      "locationId": "salt_road",
+      "displayName": "Show the Measurement Method",
+      "targetId": "silas_arrow_public_method",
+      "visualId": "document",
+      "positionX": 6.5,
+      "positionY": 2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_public_post_marker",
+      "locationId": "salt_road",
+      "displayName": "The Account Goes Up at the Pass",
+      "targetId": "silas_arrow_public_post",
+      "visualId": "noticeboard",
+      "positionX": -3.0,
+      "positionY": -4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_sealed_case_marker",
+      "locationId": "salt_road",
+      "displayName": "Build a Case with a Changeable Seal",
+      "targetId": "silas_arrow_family_case",
+      "visualId": "sealed_case",
+      "positionX": 4.4,
+      "positionY": -3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_sealed_public_method_marker",
+      "locationId": "salt_road",
+      "displayName": "Publish the Method, Not the Family Copy",
+      "targetId": "silas_arrow_method_notice",
+      "visualId": "noticeboard",
+      "positionX": -0.9,
+      "positionY": 3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_sealed_review_marker",
+      "locationId": "salt_road",
+      "displayName": "The Named Holder Opens the Case",
+      "targetId": "silas_arrow_family_receipt",
+      "visualId": "sealed_case",
+      "positionX": 6.6,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_sealed_seal_marker",
+      "locationId": "salt_road",
+      "displayName": "Record the Seal's First Mark",
+      "targetId": "silas_arrow_seal_record",
+      "visualId": "sealed_case",
+      "positionX": 3.2,
+      "positionY": -1.3,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_daylight_repeat_marker",
+      "locationId": "salt_road",
+      "displayName": "Repeat the Sightline in Clear Weather",
+      "targetId": "silas_arrow_daylight_repeat",
+      "visualId": "signal_vane",
+      "positionX": -6.1,
+      "positionY": -1.4,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_repeat_target_marker",
+      "locationId": "salt_road",
+      "displayName": "A Second Mark beside the First",
+      "targetId": "silas_arrow_repeat_target",
+      "visualId": "signal_mark",
+      "positionX": 7.6,
+      "positionY": 0.0,
+      "scale": 0.085
+    },
+    {
+      "id": "silas_arrow_public_or_case_marker",
+      "locationId": "salt_road",
+      "displayName": "Check the Chosen Copy's Return Path",
+      "targetId": "silas_arrow_return_path",
+      "visualId": "document",
+      "positionX": -5.4,
+      "positionY": 0.3,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_bell_rim_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "The Bell's Lowest Rim",
+      "targetId": "warden_oath_low_bell",
+      "visualId": "noticeboard",
+      "positionX": -2.4,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_time_marks_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Three Marks Below the Surface",
+      "targetId": "warden_oath_time_marks",
+      "visualId": "waymarker",
+      "positionX": -5.1,
+      "positionY": 3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_stairs_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "The Stair That Changes the Note",
+      "targetId": "warden_oath_stair",
+      "visualId": "waymarker",
+      "positionX": -6.2,
+      "positionY": -2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_light_test_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "A Lamp at the Same Depth",
+      "targetId": "warden_oath_lamp_test",
+      "visualId": "document",
+      "positionX": 1.4,
+      "positionY": -3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_archive_copy_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Find the Heading's Copy Date",
+      "targetId": "warden_oath_heading_copy",
+      "visualId": "document",
+      "positionX": 2.1,
+      "positionY": 1.4,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_measure_card_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "A Card with Space for Conditions",
+      "targetId": "warden_oath_measure_card",
+      "visualId": "noticeboard",
+      "positionX": -1.4,
+      "positionY": 2.0,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_policy_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Where Should the First Account Live?",
+      "targetId": "first_oath_record_policy",
+      "visualId": "noticeboard",
+      "positionX": -0.4,
+      "positionY": 4.3,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_public_folio_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Set the Public Folio beside the Bell",
+      "targetId": "warden_oath_public_folio",
+      "visualId": "noticeboard",
+      "positionX": 0.6,
+      "positionY": -0.5,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_public_method_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Publish the Repeatable Hall Test",
+      "targetId": "warden_oath_public_method",
+      "visualId": "document",
+      "positionX": 7.0,
+      "positionY": -1.7,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_public_margin_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Leave the Undated Margin in Place",
+      "targetId": "warden_oath_public_margin",
+      "visualId": "document",
+      "positionX": -3.6,
+      "positionY": 0.9,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_public_board_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Post the Folio with Its Copy History",
+      "targetId": "warden_oath_public_board",
+      "visualId": "noticeboard",
+      "positionX": -7.1,
+      "positionY": 1.5,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_sealed_receipt_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Write the Access Receipt before Closing",
+      "targetId": "warden_oath_access_receipt",
+      "visualId": "sealed_case",
+      "positionX": 4.0,
+      "positionY": -3.1,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_sealed_method_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Keep the Measurement Method Public",
+      "targetId": "warden_oath_sealed_method",
+      "visualId": "document",
+      "positionX": 6.6,
+      "positionY": 3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_sealed_copy_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Set the Copyist's Heading on Its Own Shelf",
+      "targetId": "warden_oath_heading_shelf",
+      "visualId": "document",
+      "positionX": 3.2,
+      "positionY": 2.3,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_sealed_mark_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Seal the Folio with an Opening Mark",
+      "targetId": "warden_oath_seal_mark",
+      "visualId": "sealed_case",
+      "positionX": -0.7,
+      "positionY": -3.7,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_new_test_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "A New Test without the Old Voice",
+      "targetId": "warden_oath_second_test",
+      "visualId": "document",
+      "positionX": -4.0,
+      "positionY": 2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_copy_review_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Review the History of the Heading",
+      "targetId": "warden_oath_copy_review",
+      "visualId": "document",
+      "positionX": 0.8,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "warden_oath_future_marker_marker",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Leave a Space for the Next Listener",
+      "targetId": "warden_oath_future_marker",
+      "visualId": "noticeboard",
+      "positionX": 7.1,
+      "positionY": -2.6,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_case",
+      "locationId": "outerwake_archive",
+      "displayName": "Returned Survey Case",
+      "targetId": "jace_four_places_case",
+      "visualId": "sealed_case",
+      "positionX": -9.4,
+      "positionY": 4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_wind",
+      "locationId": "outerwake_archive",
+      "displayName": "Three-Height Wind Card",
+      "targetId": "jace_four_places_wind",
+      "visualId": "pressure_gauge",
+      "positionX": -6.8,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_interval",
+      "locationId": "outerwake_archive",
+      "displayName": "Unnumbered Interval Card",
+      "targetId": "jace_four_places_interval",
+      "visualId": "document",
+      "positionX": -1.2,
+      "positionY": -4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_receiver",
+      "locationId": "outerwake_archive",
+      "displayName": "Passive Receiver Plate",
+      "targetId": "jace_four_places_receiver",
+      "visualId": "document",
+      "positionX": 6.2,
+      "positionY": 4.55,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_draft",
+      "locationId": "outerwake_archive",
+      "displayName": "Jace's Unsent Draft",
+      "targetId": "jace_four_places_draft",
+      "visualId": "document",
+      "positionX": 10.2,
+      "positionY": 2.25,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_policy",
+      "locationId": "outerwake_archive",
+      "displayName": "Archive Access Policy Board",
+      "targetId": "jace_four_places_policy",
+      "visualId": "noticeboard",
+      "positionX": -10.15,
+      "positionY": -2.45,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_public_method",
+      "locationId": "outerwake_archive",
+      "displayName": "Public Test Procedure",
+      "targetId": "jace_four_places_public_method",
+      "visualId": "document",
+      "positionX": -6.4,
+      "positionY": -2.05,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_public_index",
+      "locationId": "outerwake_archive",
+      "displayName": "Public Expedition Index",
+      "targetId": "jace_four_places_public_index",
+      "visualId": "noticeboard",
+      "positionX": 10.4,
+      "positionY": -2.35,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_private_receipt",
+      "locationId": "outerwake_archive",
+      "displayName": "Folio Access Receipt",
+      "targetId": "jace_four_places_private_receipt",
+      "visualId": "sealed_case",
+      "positionX": 5.7,
+      "positionY": -4.65,
+      "scale": 0.085
+    },
+    {
+      "id": "jace_four_places_marker_private_folio",
+      "locationId": "outerwake_archive",
+      "displayName": "Requestable Personal Folio",
+      "targetId": "jace_four_places_private_folio",
+      "visualId": "sealed_case",
+      "positionX": 0.75,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_bowls",
+      "locationId": "last_oath_reach",
+      "displayName": "Two Bowls, Three Marks",
+      "targetId": "crownfall_table_bowls",
+      "visualId": "document",
+      "positionX": -9.7,
+      "positionY": 4.5,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_portion",
+      "locationId": "last_oath_reach",
+      "displayName": "The Scoop That Sets the Portion",
+      "targetId": "crownfall_portion_scoop",
+      "visualId": "sealed_case",
+      "positionX": -6.5,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_rota",
+      "locationId": "last_oath_reach",
+      "displayName": "The Shift Rota Has No Empty Place",
+      "targetId": "crownfall_shift_rota",
+      "visualId": "noticeboard",
+      "positionX": -2.7,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_bed",
+      "locationId": "last_oath_reach",
+      "displayName": "The Bed Needs Water Tomorrow Too",
+      "targetId": "crownfall_emberroot_bed",
+      "visualId": "seed_cradle",
+      "positionX": 1.0,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_waterline",
+      "locationId": "last_oath_reach",
+      "displayName": "The Water Mark beneath the Landing",
+      "targetId": "crownfall_lake_waterline",
+      "visualId": "document",
+      "positionX": 3.3,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_reserve",
+      "locationId": "last_oath_reach",
+      "displayName": "A Shelf for What Must Be Replanted",
+      "targetId": "crownfall_seed_shelf",
+      "visualId": "sealed_case",
+      "positionX": 6.5,
+      "positionY": 4.45,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_choice",
+      "locationId": "last_oath_reach",
+      "displayName": "Choose the Rule for Tomorrow's Table",
+      "targetId": "crownfall_meal_policy",
+      "visualId": "noticeboard",
+      "positionX": -9.7,
+      "positionY": -4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_public_board",
+      "locationId": "last_oath_reach",
+      "displayName": "Post the Portion Rule, Leave Names Blank",
+      "targetId": "crownfall_public_meal_board",
+      "visualId": "noticeboard",
+      "positionX": 9.6,
+      "positionY": 4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_public_forum",
+      "locationId": "last_oath_reach",
+      "displayName": "Alden Answers the First Correction",
+      "targetId": "captain_alden_final",
+      "visualId": "witness",
+      "positionX": -7.4,
+      "positionY": 0.8,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_public_receipt",
+      "locationId": "last_oath_reach",
+      "displayName": "Attach the Correction to the Old Rota",
+      "targetId": "crownfall_public_correction",
+      "visualId": "sealed_case",
+      "positionX": 9.7,
+      "positionY": 2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_quiet_room",
+      "locationId": "last_oath_reach",
+      "displayName": "Set One Meal without a Roll Call",
+      "targetId": "crownfall_open_table_notice",
+      "visualId": "document",
+      "positionX": -6.7,
+      "positionY": -4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_quiet_service",
+      "locationId": "last_oath_reach",
+      "displayName": "Serve What the Table Can Safely Release",
+      "targetId": "crownfall_open_meal_table",
+      "visualId": "sealed_case",
+      "positionX": -3.5,
+      "positionY": -4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_quiet_return",
+      "locationId": "last_oath_reach",
+      "displayName": "Return the Grain That Stayed on the Tray",
+      "targetId": "crownfall_returned_grain_tray",
+      "visualId": "sealed_case",
+      "positionX": 0.0,
+      "positionY": -4.35,
+      "scale": 0.085
+    },
+    {
+      "id": "crownfall_shared_table_marker_shared_record",
+      "locationId": "last_oath_reach",
+      "displayName": "Keep the Harvest beside the Serving",
+      "targetId": "crownfall_meal_record",
+      "visualId": "document",
+      "positionX": 0.0,
+      "positionY": -2.45,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_hinge_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "A Hinge Mended Twice",
+      "targetId": "oren_seed_tin_hinge",
+      "visualId": "sealed_case",
+      "positionX": -8.2,
+      "positionY": 2.4,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_paper_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Note Under the Felt",
+      "targetId": "oren_seed_tin_note",
+      "visualId": "document",
+      "positionX": -5.5,
+      "positionY": -3.3,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_date_marks_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Marks That Are Not Dates",
+      "targetId": "oren_seed_tin_marks",
+      "visualId": "herb_ledger",
+      "positionX": 0.7,
+      "positionY": 3.8,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_first_heads_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Heads Kept for the Table",
+      "targetId": "oren_seed_tin_harvest_board",
+      "visualId": "noticeboard",
+      "positionX": -8.1,
+      "positionY": -0.6,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_choice_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Where the Next Packet Will Sleep",
+      "targetId": "oren_seed_custody_choice",
+      "visualId": "noticeboard",
+      "positionX": -0.5,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_exchange_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Open Seed Shelf",
+      "targetId": "oren_open_seed_shelf",
+      "visualId": "seed_cradle",
+      "positionX": 8.0,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_reserve_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "A Place in the Winter Case",
+      "targetId": "oren_winter_seed_case",
+      "visualId": "sealed_case",
+      "positionX": 8.0,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_cooling_rack_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Edge Before the Middle",
+      "targetId": "oren_seed_cake_rack",
+      "visualId": "document",
+      "positionX": 6.5,
+      "positionY": -2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_empty_tin_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Tin Can Breathe",
+      "targetId": "oren_seed_tin_open",
+      "visualId": "sealed_case",
+      "positionX": -8.0,
+      "positionY": 2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_new_shoots_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "Green at the Warm Wall",
+      "targetId": "oren_second_row_shoots",
+      "visualId": "waymarker",
+      "positionX": -8.4,
+      "positionY": -1.7,
+      "scale": 0.085
+    },
+    {
+      "id": "oren_seed_tin_note_return_marker",
+      "locationId": "cinderwell_basin",
+      "displayName": "The Note in Daylight",
+      "targetId": "oren_seed_tin_note_display",
+      "visualId": "document",
+      "positionX": 8.3,
+      "positionY": 0.6,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_hearth_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Crack Above the Hearth",
+      "targetId": "mira_house_hearth_crack",
+      "visualId": "document",
+      "positionX": -8.4,
+      "positionY": 2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_cot_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Cot That Folds Inward",
+      "targetId": "mira_house_folded_cot",
+      "visualId": "sealed_case",
+      "positionX": 7.8,
+      "positionY": 2.7,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_seed_pocket_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Seed in the Mortar",
+      "targetId": "mira_house_seed_pocket",
+      "visualId": "sealed_case",
+      "positionX": -4.1,
+      "positionY": -4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_first_bloom_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Flower That Opens at Dusk",
+      "targetId": "mira_house_first_bloom",
+      "visualId": "herb_ledger",
+      "positionX": -8.0,
+      "positionY": -0.2,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_mortar_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Bowl with the Worn Rim",
+      "targetId": "mira_house_mortar_bowl",
+      "visualId": "document",
+      "positionX": 5.2,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_first_jar_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Jar on the Open Shelf",
+      "targetId": "mira_house_balm_jar",
+      "visualId": "remedy_shelf",
+      "positionX": 8.0,
+      "positionY": -2.2,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_policy_choice_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Ashfall Treatment Plan",
+      "targetId": "mira_clinic_policy_choice",
+      "visualId": "noticeboard",
+      "positionX": -0.5,
+      "positionY": -4.2,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_clinic_wall_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Window for the Fixed Room",
+      "targetId": "mira_house_clinic_window",
+      "visualId": "clinic_house",
+      "positionX": 8.1,
+      "positionY": 3.4,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_clinic_latch_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Door Opens from Inside",
+      "targetId": "mira_house_clinic_latch",
+      "visualId": "door_brace",
+      "positionX": 6.2,
+      "positionY": 2.9,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_clinic_basin_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Basin within Reach",
+      "targetId": "mira_house_clinic_basin",
+      "visualId": "noticeboard",
+      "positionX": 4.8,
+      "positionY": 3.6,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_clinic_sign_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Red Leaf at the Door",
+      "targetId": "mira_house_open_sign",
+      "visualId": "clinic_house",
+      "positionX": 8.6,
+      "positionY": 1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_kit_straps_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Bag That Leaves Room for Hands",
+      "targetId": "mira_house_satchel_straps",
+      "visualId": "sealed_case",
+      "positionX": -8.3,
+      "positionY": 3.2,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_kit_roll_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Balm Roll Stays Dry",
+      "targetId": "mira_house_balm_roll",
+      "visualId": "document",
+      "positionX": -6.1,
+      "positionY": 2.8,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_kit_map_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Road Fold on the Map",
+      "targetId": "mira_house_road_fold",
+      "visualId": "waymarker",
+      "positionX": -4.0,
+      "positionY": 0.3,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_kit_mark_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Leaf on the Traveling Bag",
+      "targetId": "mira_field_satchel_station",
+      "visualId": "field_satchel",
+      "positionX": -7.6,
+      "positionY": 1.8,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_mentor_token_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Button in the Mortar Drawer",
+      "targetId": "mira_house_mentor_button",
+      "visualId": "sealed_case",
+      "positionX": 5.7,
+      "positionY": -1.4,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_garden_shade_marker",
+      "locationId": "ashfall_village",
+      "displayName": "A Patch of Shade at Noon",
+      "targetId": "mira_house_garden_shade",
+      "visualId": "waymarker",
+      "positionX": -1.4,
+      "positionY": -4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_cooling_cloth_marker",
+      "locationId": "ashfall_village",
+      "displayName": "Cool Cloth, Warm Jar",
+      "targetId": "mira_house_cooling_cloth",
+      "visualId": "document",
+      "positionX": 1.9,
+      "positionY": -2.9,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_night_service_marker",
+      "locationId": "ashfall_village",
+      "displayName": "An Offer at the Evening Cot",
+      "targetId": "mira_emberlily_handoff",
+      "visualId": "remedy_shelf",
+      "positionX": 7.2,
+      "positionY": -3.9,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_well_lip_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Drain's New Scratches",
+      "targetId": "mira_house_well_scratches",
+      "visualId": "sealed_case",
+      "positionX": 5.8,
+      "positionY": -3.5,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_mentor_thread_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Apron Thread",
+      "targetId": "mira_house_apron_thread",
+      "visualId": "document",
+      "positionX": -6.8,
+      "positionY": 4.0,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_quiet_bell_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Bell That Does Not Call a Crowd",
+      "targetId": "mira_house_quiet_bell",
+      "visualId": "noticeboard",
+      "positionX": 0.2,
+      "positionY": 4.1,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_door_sign_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Sign Read from the Road",
+      "targetId": "mira_house_sign_sightline",
+      "visualId": "waymarker",
+      "positionX": 8.4,
+      "positionY": -0.7,
+      "scale": 0.085
+    },
+    {
+      "id": "mira_ash_house_bench_marker",
+      "locationId": "ashfall_village",
+      "displayName": "The Empty Place beside Mira",
+      "targetId": "mira_house_empty_bench",
+      "visualId": "noticeboard",
+      "positionX": -0.2,
+      "positionY": -2.6,
+      "scale": 0.085
+    },
+    {
+      "id": "atlas_glassplum_marker",
+      "locationId": "greenwake_refuge",
+      "displayName": "One Glassplum Stem, One Season",
+      "targetId": "glassplum",
+      "visualId": "glassplum_tree",
+      "positionX": -4.6,
+      "positionY": 2.6,
+      "scale": 0.085
+    }
+  ]
+}

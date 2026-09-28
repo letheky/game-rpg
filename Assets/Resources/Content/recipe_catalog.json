@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "brew_moonlight_tonic",
+      "displayName": "Pha Thuốc Ánh Trăng",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "moonlight_tonic",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "moonwort_leaf",
+          "quantity": 2
+        },
+        {
+          "itemId": "blackreed_trout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_emberscale_tonic",
+      "displayName": "Pha Thuốc Vảy Than",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "emberscale_tonic",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "moonwort_leaf",
+          "quantity": 1
+        },
+        {
+          "itemId": "emberscale_perch",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_warden_pike",
+      "displayName": "Rèn Thương Warden",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "warden_pike",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "dawnkeep_warden_core",
+          "quantity": 1
+        },
+        {
+          "itemId": "moonlight_carp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_sealbreaker",
+      "displayName": "Rèn Kiếm Phá Ấn",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "sealbreaker_sword",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "ash_warg_fang",
+          "quantity": 1
+        },
+        {
+          "itemId": "ashfall_order_seal_fragment",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_cinder_poultice",
+      "displayName": "Pha Thuốc Đắp Cinderwell",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "cinder_poultice",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "salt_saffron_bloom",
+          "quantity": 1
+        },
+        {
+          "itemId": "salt_hound_pelt",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_cinderproof_mail",
+      "displayName": "Rèn Giáp Lót Thủy Tinh",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "cinderproof_mail",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "salt_hound_pelt",
+          "quantity": 1
+        },
+        {
+          "itemId": "dryglass_shard",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_reedcutter_blade",
+      "displayName": "Rèn Kiếm Cắt Sậy",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "reedcutter_blade",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "cinder_reaper_heart",
+          "quantity": 1
+        },
+        {
+          "itemId": "sluice_mite_scale",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_saltglass_tonic",
+      "displayName": "Pha Thuốc Thạch Muối",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "saltglass_tonic",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "saltbloom",
+          "quantity": 2
+        },
+        {
+          "itemId": "quarry_glass",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_caravan_scale_vest",
+      "displayName": "Rèn Áo Giáp Vảy Đoàn Xe",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "caravan_scale_vest",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "glassback_carapace",
+          "quantity": 2
+        },
+        {
+          "itemId": "roadside_wolf_hide",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_redpass_warblade",
+      "displayName": "Rèn Kiếm Redpass",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "redpass_warblade",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "redpass_badge",
+          "quantity": 1
+        },
+        {
+          "itemId": "hollow_bell_core",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_echo_balm",
+      "displayName": "Pha Cao Xoa Vọng Âm",
+      "stationId": "choir_archive_loom",
+      "discipline": "alchemy",
+      "outputItemId": "echo_balm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        },
+        {
+          "itemId": "choir_mote",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_tideglass_sabre",
+      "displayName": "Rèn Kiếm Thủy Triều",
+      "stationId": "choir_harmonic_anvil",
+      "discipline": "smithing",
+      "outputItemId": "tideglass_sabre",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "siltglass_shard",
+          "quantity": 2
+        },
+        {
+          "itemId": "bell_crab_shell",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_choirweave_harness",
+      "displayName": "Dệt Giáp Hợp Xướng",
+      "stationId": "choir_harmonic_anvil",
+      "discipline": "smithing",
+      "outputItemId": "choirweave_harness",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "drowned_vellum",
+          "quantity": 1
+        },
+        {
+          "itemId": "echo_pearl",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "craft_resonance_lens",
+      "displayName": "Chế tạo Resonance Lens",
+      "stationId": "choir_archive_loom",
+      "discipline": "alchemy",
+      "outputItemId": "resonance_lens",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_pearl",
+          "quantity": 1
+        },
+        {
+          "itemId": "siltglass_shard",
+          "quantity": 1
+        },
+        {
+          "itemId": "whisper_koi",
+          "quantity": 1
+        },
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "craft_astral_prism",
+      "displayName": "Chế tạo Astral Prism",
+      "stationId": "archive_alchemy_bench",
+      "discipline": "alchemy",
+      "outputItemId": "astral_prism",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "riftglass",
+          "quantity": 2
+        },
+        {
+          "itemId": "wraith_ash",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_skyroot_draught",
+      "displayName": "Pha Skyroot Draught",
+      "stationId": "archive_alchemy_bench",
+      "discipline": "alchemy",
+      "outputItemId": "skyroot_draught",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "skyroot_sap",
+          "quantity": 1
+        },
+        {
+          "itemId": "farwake_carp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_astrolabe_edge",
+      "displayName": "Rèn Astrolabe Edge",
+      "stationId": "outerwake_forge",
+      "discipline": "smithing",
+      "outputItemId": "astrolabe_edge",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "asterion_core",
+          "quantity": 1
+        },
+        {
+          "itemId": "riftglass",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_veilweave_coat",
+      "displayName": "Rèn Veilweave Coat",
+      "stationId": "outerwake_forge",
+      "discipline": "smithing",
+      "outputItemId": "veilweave_coat",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "farwake_silt",
+          "quantity": 2
+        },
+        {
+          "itemId": "veilshard_fragment",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_last_oath_guard",
+      "displayName": "Rèn Giáp Lời Thề Cuối",
+      "stationId": "last_oath_forge",
+      "discipline": "smithing",
+      "outputItemId": "last_oath_guard",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "cycle_remnant_scale",
+          "quantity": 2
+        },
+        {
+          "itemId": "emberroot",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_wellbound_charm",
+      "displayName": "Rèn Bùa Neo Mạch Nước",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "wellbound_charm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "cistern_warden_core",
+          "quantity": 1
+        },
+        {
+          "itemId": "dryglass_shard",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_undertow_clasp",
+      "displayName": "Rèn Khóa Bùa Dòng Ngầm",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "undertow_clasp",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "lockhouse_bailiff_core",
+          "quantity": 1
+        },
+        {
+          "itemId": "redpass_badge",
+          "quantity": 1
+        },
+        {
+          "itemId": "quarry_glass",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "craft_unbound_voice_index",
+      "displayName": "Đóng gáy Mục lục Giọng nói Mở",
+      "stationId": "choir_archive_loom",
+      "discipline": "alchemy",
+      "outputItemId": "unbound_voice_index",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        },
+        {
+          "itemId": "whisper_koi",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_cadet_flow_charm",
+      "displayName": "Rèn Bùa Mốc Nước Cadet",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "cadet_flow_charm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "waterline_tin",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_cistern_ledger_clasp",
+      "displayName": "Rèn Khóa Sổ Cistern",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "cistern_ledger_clasp",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "cinder_measure_ring",
+          "quantity": 1
+        },
+        {
+          "itemId": "dryglass_shard",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "forge_outerwake_receiver_coil",
+      "displayName": "Rèn Cuộn Thu Outer-Wake",
+      "stationId": "outerwake_forge",
+      "discipline": "smithing",
+      "outputItemId": "outerwake_receiver_coil",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "skyroot_sap",
+          "quantity": 1
+        },
+        {
+          "itemId": "astral_prism",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_cinderwell_brine_wick",
+      "displayName": "Pha Bấc Thử Độ Muối",
+      "stationId": "cinderwell_assay_bench",
+      "discipline": "alchemy",
+      "outputItemId": "cinderwell_brine_wick",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "salt_saffron_bloom",
+          "quantity": 1
+        },
+        {
+          "itemId": "dryglass_shard",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_rainmark_chalk",
+      "displayName": "Pha Phấn Dấu Mưa",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "rainmark_chalk",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "moonwort_leaf",
+          "quantity": 1
+        },
+        {
+          "itemId": "ashfall_signal_ash",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_jace_wind_diaphragm",
+      "displayName": "Chế tạo Màng Gió Thứ Hai",
+      "stationId": "archive_alchemy_bench",
+      "discipline": "alchemy",
+      "outputItemId": "jace_wind_diaphragm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "skyroot_sap",
+          "quantity": 1
+        },
+        {
+          "itemId": "farwake_carp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_rootglass_syrup",
+      "displayName": "Nấu Siro Rootglass",
+      "stationId": "greenwake_alchemy_still",
+      "discipline": "alchemy",
+      "outputItemId": "rootglass_syrup",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "glassplum",
+          "quantity": 2
+        },
+        {
+          "itemId": "skyroot_sap",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_lyra_tuning_fork",
+      "displayName": "Rèn Chĩa Chỉnh Âm Của Lyra",
+      "stationId": "choir_harmonic_anvil",
+      "discipline": "smithing",
+      "outputItemId": "lyra_tuning_fork",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        },
+        {
+          "itemId": "whisper_koi",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_alden_watch_spindle",
+      "displayName": "Rèn Con Suốt Đổi Gác",
+      "stationId": "last_oath_forge",
+      "discipline": "smithing",
+      "outputItemId": "alden_watch_spindle",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "emberroot",
+          "quantity": 1
+        },
+        {
+          "itemId": "starlit_minnow",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_cinder_moss_filter",
+      "displayName": "Chế Màng Lọc Rêu Kính",
+      "stationId": "cinderwell_assay_bench",
+      "discipline": "alchemy",
+      "outputItemId": "cinder_moss_filter",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "brineglass_moss",
+          "quantity": 1
+        },
+        {
+          "itemId": "cistern_pressure_shard",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "craft_saltroad_beacon_lens",
+      "displayName": "Chế Tấm Kính Chia Tia",
+      "stationId": "cinderwell_assay_bench",
+      "discipline": "alchemy",
+      "outputItemId": "saltroad_beacon_lens",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "windglass_reed",
+          "quantity": 1
+        },
+        {
+          "itemId": "saltspool_skate",
+          "quantity": 1
+        },
+        {
+          "itemId": "roadglass_filament",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_choir_pulse_brace",
+      "displayName": "Rèn Bộ Chặn Xung",
+      "stationId": "choir_harmonic_anvil",
+      "discipline": "smithing",
+      "outputItemId": "choir_pulse_brace",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        },
+        {
+          "itemId": "whisper_koi",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_dawnkeep_runoff_clip",
+      "displayName": "Forge the East Gutter Runoff Clip",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "dawnkeep_runoff_clip",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "dawnmeadow_mint",
+          "quantity": 1
+        },
+        {
+          "itemId": "blackreed_trout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "craft_pike_tag_sleeve",
+      "displayName": "Chế bao thẻ tháo được",
+      "stationId": "cinderwell_assay_bench",
+      "discipline": "alchemy",
+      "outputItemId": "pike_tag_sleeve",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "windglass_reed",
+          "quantity": 1
+        },
+        {
+          "itemId": "saltspool_skate",
+          "quantity": 1
+        },
+        {
+          "itemId": "dryglass_shard",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "cook_cinderwell_stonepot_broth",
+      "displayName": "Cook Stone-Pot Broth",
+      "stationId": "cinderwell_kitchen",
+      "discipline": "cooking",
+      "outputItemId": "cinderwell_stonepot_broth",
+      "outputQuantity": 2,
+      "ingredients": [
+        {
+          "itemId": "cinderwell_barley",
+          "quantity": 2
+        },
+        {
+          "itemId": "emberscale_perch",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_ashfall_cart_axle_pin",
+      "displayName": "Rèn Ashfall Axle Pin",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "ashfall_cart_axle_pin",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "ashfall_cart_iron",
+          "quantity": 2
+        },
+        {
+          "itemId": "ashfall_cart_spoke",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_regional_fit_gauge",
+      "displayName": "Forge Adjustable Field Jaw Gauge",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "regional_fit_gauge",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "regional_atlas_scrap",
+          "quantity": 1
+        },
+        {
+          "itemId": "windglass_reed",
+          "quantity": 1
+        },
+        {
+          "itemId": "saltspool_skate",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_greenwake_rootwall_resin",
+      "displayName": "Pha Nhựa Mấu Rễ",
+      "stationId": "greenwake_alchemy_still",
+      "discipline": "alchemy",
+      "outputItemId": "greenwake_rootwall_resin",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "greenwake_root_vine_fiber",
+          "quantity": 1
+        },
+        {
+          "itemId": "glassplum",
+          "quantity": 1
+        },
+        {
+          "itemId": "brineglass_moss",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_silas_windline_charm",
+      "displayName": "Forge the Windline Bow Loop",
+      "stationId": "dawnkeep_forge",
+      "discipline": "smithing",
+      "outputItemId": "silas_windline_charm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "windglass_reed",
+          "quantity": 1
+        },
+        {
+          "itemId": "saltspool_skate",
+          "quantity": 1
+        },
+        {
+          "itemId": "roadglass_filament",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "forge_first_oath_memory_charm",
+      "displayName": "Forge the First Oath Listening Weight",
+      "stationId": "choir_harmonic_anvil",
+      "discipline": "smithing",
+      "outputItemId": "first_oath_memory_charm",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "echo_kelp",
+          "quantity": 1
+        },
+        {
+          "itemId": "whisper_koi",
+          "quantity": 1
+        },
+        {
+          "itemId": "choir_mote",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "cook_oren_seedkeepers_cake",
+      "displayName": "Cook Tin-Keeper's Barley Cake",
+      "stationId": "cinderwell_kitchen",
+      "discipline": "cooking",
+      "outputItemId": "oren_seedkeepers_cake",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "cinderwell_barley",
+          "quantity": 2
+        },
+        {
+          "itemId": "emberscale_perch",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "brew_emberlily_balm",
+      "displayName": "Brew Emberlily Balm",
+      "stationId": "ashfall_herb_table",
+      "discipline": "alchemy",
+      "outputItemId": "mira_emberlily_balm",
+      "outputQuantity": 2,
+      "ingredients": [
+        {
+          "itemId": "emberlily_petals",
+          "quantity": 1
+        },
+        {
+          "itemId": "moonwort_leaf",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "cook_crownfall_starlit_pottage",
+      "displayName": "Cook Crownfall Emberroot Pottage",
+      "stationId": "last_oath_kitchen",
+      "discipline": "cooking",
+      "outputItemId": "crownfall_starlit_pottage",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "emberroot",
+          "quantity": 1
+        },
+        {
+          "itemId": "starlit_minnow",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

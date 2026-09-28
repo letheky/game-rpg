@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "dawnkeep_lakeshore",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.2,
+      "positionY": 2.9,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.4,
+      "biteDelayMaxSeconds": 4.8,
+      "biteWindowSeconds": 1.1,
+      "catches": [
+        {
+          "itemId": "blackreed_trout",
+          "weight": 60
+        },
+        {
+          "itemId": "emberscale_perch",
+          "weight": 30
+        },
+        {
+          "itemId": "moonlight_carp",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "id": "choir_whisper_pool",
+      "locationId": "choir_beneath_lake",
+      "displayName": "Whisper Pool",
+      "positionX": -8.0,
+      "positionY": 2.9,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.1,
+      "biteDelayMaxSeconds": 4.1,
+      "biteWindowSeconds": 1.2,
+      "catches": [
+        {
+          "itemId": "whisper_koi",
+          "weight": 70
+        },
+        {
+          "itemId": "blackreed_trout",
+          "weight": 25
+        },
+        {
+          "itemId": "moonlight_carp",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "id": "outerwake_celestial_pool",
+      "locationId": "outerwake_archive",
+      "displayName": "Celestial Pool",
+      "positionX": -5.0,
+      "positionY": 2.8,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.8,
+      "biteDelayMaxSeconds": 5.0,
+      "biteWindowSeconds": 1.2,
+      "catches": [
+        {
+          "itemId": "farwake_carp",
+          "weight": 60
+        },
+        {
+          "itemId": "moonlight_carp",
+          "weight": 25
+        },
+        {
+          "itemId": "whisper_koi",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "id": "last_oath_starlake",
+      "locationId": "last_oath_reach",
+      "displayName": "Starlit Lake",
+      "positionX": -5.3,
+      "positionY": 3.3,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.6,
+      "biteDelayMaxSeconds": 4.4,
+      "biteWindowSeconds": 1.15,
+      "catches": [
+        {
+          "itemId": "starlit_minnow",
+          "weight": 70
+        },
+        {
+          "itemId": "farwake_carp",
+          "weight": 30
+        }
+      ]
+    },
+    {
+      "id": "saltroad_sheltered_pool",
+      "locationId": "salt_road",
+      "displayName": "Sheltered Salt Pool",
+      "positionX": -1.2,
+      "positionY": -3.9,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.7,
+      "biteDelayMaxSeconds": 5.0,
+      "biteWindowSeconds": 1.2,
+      "catches": [
+        {
+          "itemId": "saltspool_skate",
+          "weight": 42
+        },
+        {
+          "itemId": "blackreed_trout",
+          "weight": 36
+        },
+        {
+          "itemId": "emberscale_perch",
+          "weight": 22
+        }
+      ]
+    },
+    {
+      "id": "cinderwell_warm_run",
+      "locationId": "cinderwell_basin",
+      "displayName": "Cinderwell Warm Run",
+      "positionX": 4.8,
+      "positionY": 4.2,
+      "baitItemId": "earthworm_bait",
+      "biteDelayMinSeconds": 2.6,
+      "biteDelayMaxSeconds": 4.8,
+      "biteWindowSeconds": 1.15,
+      "catches": [
+        {
+          "itemId": "emberscale_perch",
+          "weight": 78
+        },
+        {
+          "itemId": "blackreed_trout",
+          "weight": 22
+        }
+      ]
+    }
+  ]
+}

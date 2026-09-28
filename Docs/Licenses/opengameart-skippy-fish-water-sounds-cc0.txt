@@ -1,0 +1,9 @@
+Skippy Fish Water Sound Collection
+Creator: jcpmcdonald
+Source: https://opengameart.org/content/skippy-fish-water-sound-collection
+License: CC0, as stated on the source page. No attribution is required.
+Files copied without edits into Assets/Resources/Audio/SFX/Fishing/:
+  water.ogg        SHA-256 96047b633f348c4e8d3fd289bb8ed1b59ccf18951c8fb66eb39cbce756ee3358
+  bubbles.ogg      SHA-256 eee3d8519a1130ba56f904383c80f815292415ad6d31b83d2e143161abb22c1f
+  swim.ogg         SHA-256 5e042b62303f6a2d81ccf8d2d54b105ea275889e0f2116f861f916b24a3269d6
+  waterReentry.ogg SHA-256 3fc64b2f1a06633ec81b8b12990756224c4a7915a2beaee2abfa43cf1a98070c

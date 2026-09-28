@@ -1,0 +1,59 @@
+source_tile	resource_name	monster_id	display_name	rank	location_id	equipment_slot
+1	tiny_0001	tiny_af_ashbound_zombie	Ashbound Zombie	common	ashfall_village	weapon
+2	tiny_0002	tiny_af_grave_skeleton	Grave Skeleton	common	ashfall_village	armor
+11	tiny_0011	tiny_af_ash_goblin	Ash Goblin	common	ashfall_village	charm
+40	tiny_0040	tiny_af_well_imp	Cinder Imp	common	ashfall_village	weapon
+17	tiny_0017	tiny_do_dawnkeep_green_knight	Green Knight	common	dawnkeep_outpost	weapon
+20	tiny_0020	tiny_do_dawnkeep_wight	Roster Wight	common	dawnkeep_outpost	armor
+25	tiny_0025	tiny_do_gate_werewolf	Gate Werewolf	common	dawnkeep_outpost	charm
+70	tiny_0070	tiny_do_dawnkeep_gargoyle	Dawnkeep Gargoyle	elite	dawnkeep_outpost	weapon
+3	tiny_0003	tiny_db_barracks_vampire	Letter Vault Vampire	common	dawnkeep_barracks	armor
+66	tiny_0066	tiny_db_barracks_dark_mage	Dusk Archive Mage	common	dawnkeep_barracks	weapon
+68	tiny_0068	tiny_db_barracks_harpy	Barracks Harpy	common	dawnkeep_barracks	charm
+9	tiny_0009	tiny_cw_cinderwell_maneater	Cinderwell Man-Eater	common	cinderwell_basin	weapon
+14	tiny_0014	tiny_cw_cinderwell_funguy	Ration Fungus	common	cinderwell_basin	armor
+88	tiny_0088	tiny_cw_cinderwell_muck	Cinderwell Muck	common	cinderwell_basin	charm
+103	tiny_0103	tiny_cw_cinderwell_hellhound	Canal Hellhound	common	cinderwell_basin	weapon
+76	tiny_0076	tiny_cc_cistern_grave_worm	Grave-Water Worm	common	cinder_cistern	armor
+82	tiny_0082	tiny_cc_cistern_gel_cube	Sluice Gel Cube	common	cinder_cistern	weapon
+84	tiny_0084	tiny_cc_cistern_queen_slime	Cistern Slime Queen	elite	cinder_cistern	charm
+111	tiny_0111	tiny_cc_cistern_hydra	Sluice Hydra	elite	cinder_cistern	armor
+12	tiny_0012	tiny_sr_saltroad_orc	Saltroad Orc	common	salt_road	weapon
+41	tiny_0041	tiny_sr_saltroad_adder	Saltroad Adder	common	salt_road	armor
+91	tiny_0091	tiny_sr_pass_gnoll	Pass Gnoll	common	salt_road	charm
+92	tiny_0092	tiny_sr_salt_hyena	Saltroad Hyena	common	salt_road	weapon
+96	tiny_0096	tiny_sl_lockhouse_mummy	Lockhouse Mummy	common	salt_lockhouse	weapon
+99	tiny_0099	tiny_sl_lockhouse_banshee	Salt Lockhouse Banshee	common	salt_lockhouse	armor
+97	tiny_0097	tiny_sl_salt_lockhouse_lich	Lockhouse Lich	elite	salt_lockhouse	charm
+27	tiny_0027	tiny_ch_choir_siren	Bellwater Siren	common	choir_beneath_lake	weapon
+28	tiny_0028	tiny_ch_choir_merrow	Choir Merrow	common	choir_beneath_lake	armor
+90	tiny_0090	tiny_ch_choir_will_o_wisp	Bellwater Will-o'-Wisp	common	choir_beneath_lake	charm
+112	tiny_0112	tiny_ch_choir_kraken	Deep Choir Kraken	elite	choir_beneath_lake	weapon
+26	tiny_0026	tiny_gw_greenwake_dryad	Rootbound Dryad	common	greenwake_refuge	armor
+102	tiny_0102	tiny_gw_greenwake_satyr	Grove Satyr	common	greenwake_refuge	weapon
+114	tiny_0114	tiny_gw_greenwake_treant	Greenwake Treant	common	greenwake_refuge	charm
+107	tiny_0107	tiny_gw_greenwake_manticore	Crownroot Manticore	elite	greenwake_refuge	weapon
+31	tiny_0031	tiny_ow_outerwake_mist_dragon	Outer-Wake Mist Dragon	common	outerwake_archive	weapon
+46	tiny_0046	tiny_ow_outerwake_fire_elemental	Cinder-Star Elemental	common	outerwake_archive	armor
+49	tiny_0049	tiny_ow_outerwake_air_elemental	Star-Gale Elemental	common	outerwake_archive	charm
+108	tiny_0108	tiny_ow_outerwake_chimera	Archive Chimera	elite	outerwake_archive	weapon
+33	tiny_0033	tiny_lo_crownfall_black_dragon	Crownfall Black Dragon	common	last_oath_reach	armor
+39	tiny_0039	tiny_lo_crownfall_devil	Last-Oath Devil	common	last_oath_reach	weapon
+118	tiny_0118	tiny_lo_last_oath_owlbear	Crownfall Owlbear	common	last_oath_reach	charm
+109	tiny_0109	tiny_lo_cycle_sphinx	Cycle Sphinx	elite	last_oath_reach	weapon
+4	tiny_0004	tiny_elite_af_ashvault_flameskull	Ashvault Flameskull	elite	ashfall_village	charm
+18	tiny_0018	tiny_elite_do_blue_drill_knight	Azure Drill Knight	common	dawnkeep_outpost	weapon
+19	tiny_0019	tiny_elite_do_red_drill_knight	Carmine Drill Knight	common	dawnkeep_outpost	armor
+8	tiny_0008	tiny_elite_db_glassgaze_medusa	Glassgaze Medusa	elite	dawnkeep_barracks	weapon
+15	tiny_0015	tiny_elite_cw_cinderwell_ogre	Cinderwell Storehouse Ogre	common	cinderwell_basin	armor
+16	tiny_0016	tiny_elite_cw_redpass_wendigo	Cinder-Rime Wendigo	elite	cinderwell_basin	charm
+43	tiny_0043	tiny_elite_cc_cistern_ironroot_troll	Ironroot Cistern Troll	elite	cinder_cistern	armor
+47	tiny_0047	tiny_elite_cc_cistern_sump_elemental	Sumpwater Elemental	common	cinder_cistern	weapon
+44	tiny_0044	tiny_elite_sr_saltflat_yeti	Saltflat Yeti	common	salt_road	charm
+45	tiny_0045	tiny_elite_sr_redpass_sasquatch	Redpass Stoneback	common	salt_road	weapon
+30	tiny_0030	tiny_elite_sl_lockhouse_whispering_succubus	Lockhouse Whispering Veil	elite	salt_lockhouse	charm
+29	tiny_0029	tiny_elite_ch_choir_saltweb_spider	Saltweb Choir Spider	common	choir_beneath_lake	armor
+50	tiny_0050	tiny_elite_ch_choir_glacier_wisp	Glacier-Wick Wisp	elite	choir_beneath_lake	weapon
+36	tiny_0036	tiny_elite_gw_greenwake_canopy_seraph	Canopy Seraph	elite	greenwake_refuge	weapon
+32	tiny_0032	tiny_elite_ow_outerwake_azure_drake	Aetherwake Azure Drake	elite	outerwake_archive	armor
+37	tiny_0037	tiny_elite_lo_crownfall_glasswing_angel	Crownfall Glasswing	common	last_oath_reach	charm

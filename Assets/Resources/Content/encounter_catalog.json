@@ -1,0 +1,4234 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "ash_warg_yard",
+      "monsterId": "ash_warg",
+      "locationId": "ashfall_village",
+      "positionX": 5.8,
+      "positionY": -1.6,
+      "requiredQuestId": "ashfall_warg",
+      "blockedQuestId": "ashfall_survivors",
+      "blockedDialogueId": "rowan_warg_blocked",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "ash_warg",
+      "defeatDialogueId": "rowan_warg_defeated",
+      "downDialogueId": "rowan_warg_down"
+    },
+    {
+      "id": "dawnkeep_sparring",
+      "monsterId": "dawnkeep_warden",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 5.2,
+      "positionY": -1.25,
+      "requiredQuestId": "order_trial_sparring",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "dawnkeep_warden",
+      "defeatDialogueId": "rowan_warden_defeated",
+      "downDialogueId": "rowan_training_down"
+    },
+    {
+      "id": "cinder_salt_hound",
+      "monsterId": "salt_hound",
+      "locationId": "cinderwell_basin",
+      "positionX": -1.7,
+      "positionY": -1.8,
+      "requiredQuestId": "cinder_arrival",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_cinder_creature_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "salt_hound_pelt",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_rustwing",
+      "monsterId": "rustwing_harrier",
+      "locationId": "cinderwell_basin",
+      "positionX": 5.3,
+      "positionY": 1.0,
+      "requiredQuestId": "cinder_grain_records",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_cinder_creature_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "rustwing_quill",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_sluice_mite",
+      "monsterId": "sluice_mite",
+      "locationId": "cinderwell_basin",
+      "positionX": 0.9,
+      "positionY": 2.0,
+      "requiredQuestId": "cinder_sluice_map",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_cinder_creature_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 1,
+        "items": [
+          {
+            "itemId": "sluice_mite_scale",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_granary_sentinel",
+      "monsterId": "granary_sentinel",
+      "locationId": "cinderwell_basin",
+      "positionX": 7.0,
+      "positionY": -1.1,
+      "requiredQuestId": "cinder_sluice_map",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_granary_sentinel_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 8,
+        "items": [
+          {
+            "itemId": "dryglass_shard",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_mold_crowned_reeve",
+      "monsterId": "mold_crowned_reeve",
+      "locationId": "cinderwell_basin",
+      "positionX": 4.2,
+      "positionY": -0.1,
+      "requiredQuestId": "cinder_blight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "mold_crowned_reeve",
+      "defeatDialogueId": "rowan_mold_reeve_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 25,
+        "items": [
+          {
+            "itemId": "cinder_reaper_heart",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "saltroad_scavenger_run",
+      "monsterId": "saltroad_scavenger",
+      "locationId": "salt_road",
+      "positionX": -2.4,
+      "positionY": -2.2,
+      "requiredQuestId": "salt_arrival",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "roadside_wolf_hide",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "glassback_salt_ridge",
+      "monsterId": "glassback_scuttler",
+      "locationId": "salt_road",
+      "positionX": 1.1,
+      "positionY": 2.5,
+      "requiredQuestId": "salt_massacre_signs",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "glassback_carapace",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "dune_kite_west_ledge",
+      "monsterId": "dune_kite",
+      "locationId": "salt_road",
+      "positionX": -1.6,
+      "positionY": 3.4,
+      "requiredQuestId": "salt_massacre_signs",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "canyon_kite_feather",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "quarry_hollow_lower_cut",
+      "monsterId": "quarry_hollow",
+      "locationId": "salt_road",
+      "positionX": -7.2,
+      "positionY": 2.3,
+      "requiredQuestId": "salt_massacre_signs",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "quarry_glass",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "redpass_enforcer_gate",
+      "monsterId": "redpass_enforcer",
+      "locationId": "salt_road",
+      "positionX": 7.0,
+      "positionY": 2.9,
+      "requiredQuestId": "salt_bailiff",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_redpass_enforcer_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 9,
+        "items": [
+          {
+            "itemId": "redpass_badge",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "salt_road_hollow_tollkeeper",
+      "monsterId": "hollow_tollkeeper",
+      "locationId": "salt_road",
+      "positionX": 4.3,
+      "positionY": -0.5,
+      "requiredQuestId": "salt_bailiff",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "hollow_tollkeeper",
+      "defeatDialogueId": "rowan_tollkeeper_defeated",
+      "downDialogueId": "rowan_tollkeeper_down",
+      "reward": {
+        "gold": 16,
+        "items": [
+          {
+            "itemId": "hollow_bell_core",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_echo_moth",
+      "monsterId": "echo_moth",
+      "locationId": "choir_beneath_lake",
+      "positionX": -2.5,
+      "positionY": 1.2,
+      "requiredQuestId": "choir_echo_records",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "echo_moth",
+      "defeatDialogueId": "rowan_choir_creature_defeated",
+      "downDialogueId": "rowan_choir_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "echo_pearl",
+            "quantity": 1
+          },
+          {
+            "itemId": "choir_mote",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_siltglass_eel",
+      "monsterId": "siltglass_eel",
+      "locationId": "choir_beneath_lake",
+      "positionX": 5.5,
+      "positionY": -1.8,
+      "requiredQuestId": "choir_sonar",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "siltglass_eel",
+      "defeatDialogueId": "rowan_choir_creature_defeated",
+      "downDialogueId": "rowan_choir_creature_down",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "siltglass_shard",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_bell_crab",
+      "monsterId": "bell_crab",
+      "locationId": "choir_beneath_lake",
+      "positionX": -7.0,
+      "positionY": -2.6,
+      "requiredQuestId": "choir_echo_records",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_choir_creature_defeated",
+      "downDialogueId": "rowan_choir_creature_down",
+      "reward": {
+        "gold": 1,
+        "items": [
+          {
+            "itemId": "bell_crab_shell",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_echo_wisp",
+      "monsterId": "echo_wisp",
+      "locationId": "choir_beneath_lake",
+      "positionX": 7.2,
+      "positionY": 2.7,
+      "requiredQuestId": "choir_sonar",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_choir_creature_defeated",
+      "downDialogueId": "rowan_choir_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "choir_mote",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_drowned_cantor",
+      "monsterId": "drowned_cantor",
+      "locationId": "choir_beneath_lake",
+      "positionX": 2.8,
+      "positionY": 3.7,
+      "requiredQuestId": "choir_sonar",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_choir_creature_defeated",
+      "downDialogueId": "rowan_choir_creature_down",
+      "reward": {
+        "gold": 6,
+        "items": [
+          {
+            "itemId": "drowned_vellum",
+            "quantity": 1
+          },
+          {
+            "itemId": "choir_mote",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_aegis_cantor",
+      "monsterId": "aegis_cantor",
+      "locationId": "choir_beneath_lake",
+      "positionX": 6.4,
+      "positionY": 0.8,
+      "requiredQuestId": "choir_sentinel",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "aegis_cantor",
+      "defeatDialogueId": "rowan_aegis_cantor_defeated",
+      "downDialogueId": "rowan_aegis_cantor_down",
+      "reward": {
+        "gold": 22,
+        "items": [
+          {
+            "itemId": "choir_heart",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "greenwake_seedbound",
+      "monsterId": "seedbound_sentinel",
+      "locationId": "greenwake_refuge",
+      "positionX": -7.8,
+      "positionY": 3.6,
+      "requiredQuestId": "champion_accept_oath",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "seedbound_sentinel",
+      "defeatDialogueId": "rowan_seedbound_defeated",
+      "downDialogueId": "rowan_greenwake_down",
+      "reward": {
+        "gold": 7,
+        "items": [
+          {
+            "itemId": "seedbound_core",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "greenwake_briar_stalker",
+      "monsterId": "briar_stalker",
+      "locationId": "greenwake_refuge",
+      "positionX": -5.1,
+      "positionY": 1.5,
+      "requiredQuestId": "champion_grove_trial",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "briar_stalker",
+      "defeatDialogueId": "rowan_greenwake_common_defeated",
+      "downDialogueId": "rowan_greenwake_down",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "greenwake_pollen",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "greenwake_lantern_moth",
+      "monsterId": "lantern_moth",
+      "locationId": "greenwake_refuge",
+      "positionX": 8.7,
+      "positionY": 2.8,
+      "requiredQuestId": "champion_grove_trial",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "lantern_moth",
+      "defeatDialogueId": "rowan_greenwake_common_defeated",
+      "downDialogueId": "rowan_greenwake_down",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "greenwake_pollen",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "greenwake_crownward",
+      "monsterId": "crownward_colossus",
+      "locationId": "greenwake_refuge",
+      "positionX": 9.5,
+      "positionY": -0.7,
+      "requiredQuestId": "champion_crownward",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crownward_colossus",
+      "defeatDialogueId": "rowan_crownward_defeated",
+      "downDialogueId": "rowan_greenwake_down",
+      "reward": {
+        "gold": 18,
+        "items": [
+          {
+            "itemId": "crownward_seed",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_rift_hound_west",
+      "monsterId": "rift_hound",
+      "locationId": "outerwake_archive",
+      "positionX": -3.8,
+      "positionY": 1.9,
+      "requiredQuestId": "archive_rift_survey",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "rift_hound",
+      "defeatDialogueId": "rowan_archive_common_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 4,
+        "items": [
+          {
+            "itemId": "riftglass",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_rift_hound_east",
+      "monsterId": "rift_hound",
+      "locationId": "outerwake_archive",
+      "positionX": 4.8,
+      "positionY": -1.8,
+      "requiredQuestId": "archive_rift_survey",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "rift_hound",
+      "defeatDialogueId": "rowan_archive_common_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 4,
+        "items": [
+          {
+            "itemId": "riftglass",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_star_leecher_north",
+      "monsterId": "star_leecher",
+      "locationId": "outerwake_archive",
+      "positionX": -1.0,
+      "positionY": 4.2,
+      "requiredQuestId": "archive_rift_survey",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "star_leecher",
+      "defeatDialogueId": "rowan_archive_common_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 4,
+        "items": [
+          {
+            "itemId": "wraith_ash",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_star_leecher_south",
+      "monsterId": "star_leecher",
+      "locationId": "outerwake_archive",
+      "positionX": 3.2,
+      "positionY": -4.2,
+      "requiredQuestId": "archive_rift_survey",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "star_leecher",
+      "defeatDialogueId": "rowan_archive_common_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 4,
+        "items": [
+          {
+            "itemId": "wraith_ash",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_archive_scribe",
+      "monsterId": "archive_scribe",
+      "locationId": "outerwake_archive",
+      "positionX": 7.7,
+      "positionY": 2.5,
+      "requiredQuestId": "archive_rift_survey",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "archive_scribe",
+      "defeatDialogueId": "rowan_archive_common_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 9,
+        "items": [
+          {
+            "itemId": "wraith_ash",
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_asterion",
+      "monsterId": "asterion_threshold",
+      "locationId": "outerwake_archive",
+      "positionX": -0.5,
+      "positionY": 0.1,
+      "requiredQuestId": "archive_asterion",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "asterion_threshold",
+      "defeatDialogueId": "rowan_asterion_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 24,
+        "items": [
+          {
+            "itemId": "asterion_core",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "outerwake_veilshard_drake",
+      "monsterId": "veilshard_drake",
+      "locationId": "outerwake_archive",
+      "positionX": 9.2,
+      "positionY": -0.6,
+      "requiredQuestId": "archive_drake",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "veilshard_drake",
+      "defeatDialogueId": "rowan_veilshard_defeated",
+      "downDialogueId": "rowan_outerwake_down",
+      "reward": {
+        "gold": 22,
+        "items": [
+          {
+            "itemId": "veilshard_fragment",
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "last_oath_cycle_remnant",
+      "monsterId": "cycle_remnant",
+      "locationId": "last_oath_reach",
+      "positionX": -7.0,
+      "positionY": 1.6,
+      "requiredQuestId": "side_last_oath_guard",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "cycle_remnant",
+      "defeatDialogueId": "rowan_cycle_remnant_defeated",
+      "downDialogueId": "rowan_cycle_remnant_down",
+      "reward": {
+        "gold": 12,
+        "items": [
+          {
+            "itemId": "cycle_remnant_scale",
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "last_oath_demon_king",
+      "monsterId": "demon_king_alden",
+      "locationId": "last_oath_reach",
+      "positionX": -6.2,
+      "positionY": 0.8,
+      "requiredQuestId": "last_oath_cycle_boss",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "demon_king_alden",
+      "defeatDialogueId": "rowan_maou_alden_defeated",
+      "downDialogueId": "captain_alden_last_oath_down",
+      "reward": {
+        "gold": 48,
+        "items": [
+          {
+            "itemId": "maou_blade",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "last_oath_world_will",
+      "monsterId": "world_will_avatar",
+      "locationId": "last_oath_reach",
+      "positionX": 6.4,
+      "positionY": 1.2,
+      "requiredQuestId": "last_oath_world_boss",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "world_will_avatar",
+      "defeatDialogueId": "rowan_world_will_battle_end",
+      "downDialogueId": "world_will_avatar_down",
+      "reward": {
+        "gold": 48,
+        "items": [
+          {
+            "itemId": "worldwill_spindle",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_cistern_warden",
+      "monsterId": "cistern_warden",
+      "locationId": "cinder_cistern",
+      "positionX": 2.2,
+      "positionY": 0.4,
+      "requiredQuestId": "cinder_cistern_warden",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "cistern_warden",
+      "defeatDialogueId": "rowan_cistern_warden_defeated",
+      "downDialogueId": "rowan_cinder_down",
+      "reward": {
+        "gold": 15,
+        "items": [
+          {
+            "itemId": "cistern_warden_core",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "salt_lockhouse_ratchet_den",
+      "monsterId": "salt_lockhouse_ratchet",
+      "locationId": "salt_lockhouse",
+      "positionX": -4.6,
+      "positionY": 1.8,
+      "requiredQuestId": "salt_underpass_access",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 2,
+        "items": [
+          {
+            "itemId": "roadside_wolf_hide",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "salt_lockhouse_latcher_pool",
+      "monsterId": "brineglass_latcher",
+      "locationId": "salt_lockhouse",
+      "positionX": 6.6,
+      "positionY": 1.4,
+      "requiredQuestId": "salt_underpass_access",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_salt_creature_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "quarry_glass",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "salt_lockhouse_inspector",
+      "monsterId": "salt_slag_inspector",
+      "locationId": "salt_lockhouse",
+      "positionX": 7.2,
+      "positionY": -1.3,
+      "requiredQuestId": "salt_lockhouse_bailiff",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": false,
+      "defeatObjectiveTargetId": "",
+      "defeatDialogueId": "rowan_redpass_enforcer_defeated",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 8,
+        "items": [
+          {
+            "itemId": "redpass_badge",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "salt_lockhouse_bailiff",
+      "monsterId": "salt_lockhouse_bailiff",
+      "locationId": "salt_lockhouse",
+      "positionX": 2.1,
+      "positionY": -0.2,
+      "requiredQuestId": "salt_lockhouse_bailiff",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "salt_lockhouse_bailiff",
+      "defeatDialogueId": "rowan_salt_lockhouse_bailiff",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 18,
+        "items": [
+          {
+            "itemId": "lockhouse_bailiff_core",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "ashfall_embermaw_matriarch",
+      "monsterId": "embermaw_matriarch",
+      "locationId": "ashfall_village",
+      "positionX": 2.8,
+      "positionY": 2.6,
+      "requiredQuestId": "side_ashfall_embermaw",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "embermaw_matriarch",
+      "defeatDialogueId": "rowan_embermaw_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 18,
+        "items": []
+      }
+    },
+    {
+      "id": "dawnkeep_ironward_sentinel",
+      "monsterId": "ironward_sentinel",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 0.2,
+      "positionY": -3.0,
+      "requiredQuestId": "side_dawnkeep_ironward",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "ironward_sentinel",
+      "defeatDialogueId": "rowan_ironward_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "cistern_sluicewheel_colossus",
+      "monsterId": "sluicewheel_colossus",
+      "locationId": "cinder_cistern",
+      "positionX": 7.2,
+      "positionY": -2.1,
+      "requiredQuestId": "side_cistern_sluicewheel",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "sluicewheel_colossus",
+      "defeatDialogueId": "rowan_sluicewheel_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "saltroad_redpass_harrower",
+      "monsterId": "redpass_harrower",
+      "locationId": "salt_road",
+      "positionX": -8.0,
+      "positionY": -3.8,
+      "requiredQuestId": "side_salt_redpass_harrower",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "redpass_harrower",
+      "defeatDialogueId": "rowan_redpass_harrower_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "choir_deepbell_herald",
+      "monsterId": "deepbell_herald",
+      "locationId": "choir_beneath_lake",
+      "positionX": -7.9,
+      "positionY": 2.9,
+      "requiredQuestId": "side_choir_deepbell_herald",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "deepbell_herald",
+      "defeatDialogueId": "rowan_deepbell_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 44,
+        "items": []
+      }
+    },
+    {
+      "id": "greenwake_seedvault_keeper",
+      "monsterId": "seedvault_keeper",
+      "locationId": "greenwake_refuge",
+      "positionX": 0.0,
+      "positionY": -3.5,
+      "requiredQuestId": "side_greenwake_seedvault_keeper",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "seedvault_keeper",
+      "defeatDialogueId": "rowan_seedvault_victory",
+      "downDialogueId": "rowan_salt_creature_down",
+      "reward": {
+        "gold": 52,
+        "items": []
+      }
+    },
+    {
+      "id": "field_af_ashbound_zombie_site",
+      "monsterId": "tiny_af_ashbound_zombie",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_af_ashbound_zombie",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_ashbound_zombie",
+      "defeatDialogueId": "rowan_field_ashbound_zombie_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 5,
+        "items": []
+      }
+    },
+    {
+      "id": "field_af_grave_skeleton_site",
+      "monsterId": "tiny_af_grave_skeleton",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_af_grave_skeleton",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_grave_skeleton",
+      "defeatDialogueId": "rowan_field_grave_skeleton_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 5,
+        "items": []
+      }
+    },
+    {
+      "id": "field_af_ash_goblin_site",
+      "monsterId": "tiny_af_ash_goblin",
+      "locationId": "ashfall_village",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_af_ash_goblin",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_ash_goblin",
+      "defeatDialogueId": "rowan_field_ash_goblin_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 5,
+        "items": []
+      }
+    },
+    {
+      "id": "field_af_well_imp_site",
+      "monsterId": "tiny_af_well_imp",
+      "locationId": "ashfall_village",
+      "positionX": 9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_af_well_imp",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_well_imp",
+      "defeatDialogueId": "rowan_field_well_imp_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 5,
+        "items": []
+      }
+    },
+    {
+      "id": "field_do_dawnkeep_green_knight_site",
+      "monsterId": "tiny_do_dawnkeep_green_knight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_do_dawnkeep_green_knight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_do_dawnkeep_green_knight",
+      "defeatDialogueId": "rowan_field_dawnkeep_green_knight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_do_dawnkeep_wight_site",
+      "monsterId": "tiny_do_dawnkeep_wight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_do_dawnkeep_wight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_do_dawnkeep_wight",
+      "defeatDialogueId": "rowan_field_dawnkeep_wight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_do_gate_werewolf_site",
+      "monsterId": "tiny_do_gate_werewolf",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_do_gate_werewolf",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_do_gate_werewolf",
+      "defeatDialogueId": "rowan_field_gate_werewolf_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_do_dawnkeep_gargoyle_site",
+      "monsterId": "tiny_do_dawnkeep_gargoyle",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_do_dawnkeep_gargoyle",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_do_dawnkeep_gargoyle",
+      "defeatDialogueId": "rowan_field_dawnkeep_gargoyle_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_db_barracks_vampire_site",
+      "monsterId": "tiny_db_barracks_vampire",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_field_db_barracks_vampire",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_db_barracks_vampire",
+      "defeatDialogueId": "rowan_field_barracks_vampire_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_db_barracks_dark_mage_site",
+      "monsterId": "tiny_db_barracks_dark_mage",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": -3.7,
+      "requiredQuestId": "side_field_db_barracks_dark_mage",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_db_barracks_dark_mage",
+      "defeatDialogueId": "rowan_field_barracks_dark_mage_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_db_barracks_harpy_site",
+      "monsterId": "tiny_db_barracks_harpy",
+      "locationId": "dawnkeep_barracks",
+      "positionX": 8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_field_db_barracks_harpy",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_db_barracks_harpy",
+      "defeatDialogueId": "rowan_field_barracks_harpy_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 7,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cw_cinderwell_maneater_site",
+      "monsterId": "tiny_cw_cinderwell_maneater",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_cw_cinderwell_maneater",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cw_cinderwell_maneater",
+      "defeatDialogueId": "rowan_field_cinderwell_maneater_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cw_cinderwell_funguy_site",
+      "monsterId": "tiny_cw_cinderwell_funguy",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_cw_cinderwell_funguy",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cw_cinderwell_funguy",
+      "defeatDialogueId": "rowan_field_cinderwell_funguy_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cw_cinderwell_muck_site",
+      "monsterId": "tiny_cw_cinderwell_muck",
+      "locationId": "cinderwell_basin",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_cw_cinderwell_muck",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cw_cinderwell_muck",
+      "defeatDialogueId": "rowan_field_cinderwell_muck_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cw_cinderwell_hellhound_site",
+      "monsterId": "tiny_cw_cinderwell_hellhound",
+      "locationId": "cinderwell_basin",
+      "positionX": 9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_cw_cinderwell_hellhound",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cw_cinderwell_hellhound",
+      "defeatDialogueId": "rowan_field_cinderwell_hellhound_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cc_cistern_grave_worm_site",
+      "monsterId": "tiny_cc_cistern_grave_worm",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_cc_cistern_grave_worm",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cc_cistern_grave_worm",
+      "defeatDialogueId": "rowan_field_cistern_grave_worm_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 13,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cc_cistern_gel_cube_site",
+      "monsterId": "tiny_cc_cistern_gel_cube",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_cc_cistern_gel_cube",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cc_cistern_gel_cube",
+      "defeatDialogueId": "rowan_field_cistern_gel_cube_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 13,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cc_cistern_queen_slime_site",
+      "monsterId": "tiny_cc_cistern_queen_slime",
+      "locationId": "cinder_cistern",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_cc_cistern_queen_slime",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cc_cistern_queen_slime",
+      "defeatDialogueId": "rowan_field_cistern_queen_slime_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 13,
+        "items": []
+      }
+    },
+    {
+      "id": "field_cc_cistern_hydra_site",
+      "monsterId": "tiny_cc_cistern_hydra",
+      "locationId": "cinder_cistern",
+      "positionX": 9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_cc_cistern_hydra",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cc_cistern_hydra",
+      "defeatDialogueId": "rowan_field_cistern_hydra_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 13,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sr_saltroad_orc_site",
+      "monsterId": "tiny_sr_saltroad_orc",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_sr_saltroad_orc",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sr_saltroad_orc",
+      "defeatDialogueId": "rowan_field_saltroad_orc_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sr_saltroad_adder_site",
+      "monsterId": "tiny_sr_saltroad_adder",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_sr_saltroad_adder",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sr_saltroad_adder",
+      "defeatDialogueId": "rowan_field_saltroad_adder_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sr_pass_gnoll_site",
+      "monsterId": "tiny_sr_pass_gnoll",
+      "locationId": "salt_road",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_field_sr_pass_gnoll",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sr_pass_gnoll",
+      "defeatDialogueId": "rowan_field_pass_gnoll_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sr_salt_hyena_site",
+      "monsterId": "tiny_sr_salt_hyena",
+      "locationId": "salt_road",
+      "positionX": 9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_field_sr_salt_hyena",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sr_salt_hyena",
+      "defeatDialogueId": "rowan_field_salt_hyena_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sl_lockhouse_mummy_site",
+      "monsterId": "tiny_sl_lockhouse_mummy",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_field_sl_lockhouse_mummy",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sl_lockhouse_mummy",
+      "defeatDialogueId": "rowan_field_lockhouse_mummy_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 17,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sl_lockhouse_banshee_site",
+      "monsterId": "tiny_sl_lockhouse_banshee",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": -4.4,
+      "requiredQuestId": "side_field_sl_lockhouse_banshee",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sl_lockhouse_banshee",
+      "defeatDialogueId": "rowan_field_lockhouse_banshee_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 17,
+        "items": []
+      }
+    },
+    {
+      "id": "field_sl_salt_lockhouse_lich_site",
+      "monsterId": "tiny_sl_salt_lockhouse_lich",
+      "locationId": "salt_lockhouse",
+      "positionX": 9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_field_sl_salt_lockhouse_lich",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_sl_salt_lockhouse_lich",
+      "defeatDialogueId": "rowan_field_salt_lockhouse_lich_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 17,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ch_choir_siren_site",
+      "monsterId": "tiny_ch_choir_siren",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_ch_choir_siren",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ch_choir_siren",
+      "defeatDialogueId": "rowan_field_choir_siren_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 19,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ch_choir_merrow_site",
+      "monsterId": "tiny_ch_choir_merrow",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_ch_choir_merrow",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ch_choir_merrow",
+      "defeatDialogueId": "rowan_field_choir_merrow_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 19,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ch_choir_will_o_wisp_site",
+      "monsterId": "tiny_ch_choir_will_o_wisp",
+      "locationId": "choir_beneath_lake",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_ch_choir_will_o_wisp",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ch_choir_will_o_wisp",
+      "defeatDialogueId": "rowan_field_choir_will_o_wisp_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 19,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ch_choir_kraken_site",
+      "monsterId": "tiny_ch_choir_kraken",
+      "locationId": "choir_beneath_lake",
+      "positionX": 10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_ch_choir_kraken",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ch_choir_kraken",
+      "defeatDialogueId": "rowan_field_choir_kraken_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 19,
+        "items": []
+      }
+    },
+    {
+      "id": "field_gw_greenwake_dryad_site",
+      "monsterId": "tiny_gw_greenwake_dryad",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_gw_greenwake_dryad",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_gw_greenwake_dryad",
+      "defeatDialogueId": "rowan_field_greenwake_dryad_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "field_gw_greenwake_satyr_site",
+      "monsterId": "tiny_gw_greenwake_satyr",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_gw_greenwake_satyr",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_gw_greenwake_satyr",
+      "defeatDialogueId": "rowan_field_greenwake_satyr_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "field_gw_greenwake_treant_site",
+      "monsterId": "tiny_gw_greenwake_treant",
+      "locationId": "greenwake_refuge",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_gw_greenwake_treant",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_gw_greenwake_treant",
+      "defeatDialogueId": "rowan_field_greenwake_treant_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "field_gw_greenwake_manticore_site",
+      "monsterId": "tiny_gw_greenwake_manticore",
+      "locationId": "greenwake_refuge",
+      "positionX": 10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_gw_greenwake_manticore",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_gw_greenwake_manticore",
+      "defeatDialogueId": "rowan_field_greenwake_manticore_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ow_outerwake_mist_dragon_site",
+      "monsterId": "tiny_ow_outerwake_mist_dragon",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_ow_outerwake_mist_dragon",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ow_outerwake_mist_dragon",
+      "defeatDialogueId": "rowan_field_outerwake_mist_dragon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ow_outerwake_fire_elemental_site",
+      "monsterId": "tiny_ow_outerwake_fire_elemental",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_ow_outerwake_fire_elemental",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ow_outerwake_fire_elemental",
+      "defeatDialogueId": "rowan_field_outerwake_fire_elemental_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ow_outerwake_air_elemental_site",
+      "monsterId": "tiny_ow_outerwake_air_elemental",
+      "locationId": "outerwake_archive",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_ow_outerwake_air_elemental",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ow_outerwake_air_elemental",
+      "defeatDialogueId": "rowan_field_outerwake_air_elemental_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "field_ow_outerwake_chimera_site",
+      "monsterId": "tiny_ow_outerwake_chimera",
+      "locationId": "outerwake_archive",
+      "positionX": 10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_ow_outerwake_chimera",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ow_outerwake_chimera",
+      "defeatDialogueId": "rowan_field_outerwake_chimera_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "field_lo_crownfall_black_dragon_site",
+      "monsterId": "tiny_lo_crownfall_black_dragon",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_lo_crownfall_black_dragon",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_lo_crownfall_black_dragon",
+      "defeatDialogueId": "rowan_field_crownfall_black_dragon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 25,
+        "items": []
+      }
+    },
+    {
+      "id": "field_lo_crownfall_devil_site",
+      "monsterId": "tiny_lo_crownfall_devil",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_lo_crownfall_devil",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_lo_crownfall_devil",
+      "defeatDialogueId": "rowan_field_crownfall_devil_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 25,
+        "items": []
+      }
+    },
+    {
+      "id": "field_lo_last_oath_owlbear_site",
+      "monsterId": "tiny_lo_last_oath_owlbear",
+      "locationId": "last_oath_reach",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_field_lo_last_oath_owlbear",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_lo_last_oath_owlbear",
+      "defeatDialogueId": "rowan_field_last_oath_owlbear_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 25,
+        "items": []
+      }
+    },
+    {
+      "id": "field_lo_cycle_sphinx_site",
+      "monsterId": "tiny_lo_cycle_sphinx",
+      "locationId": "last_oath_reach",
+      "positionX": 10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_field_lo_cycle_sphinx",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_lo_cycle_sphinx",
+      "defeatDialogueId": "rowan_field_cycle_sphinx_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 25,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_af_ashvault_flameskull_site",
+      "monsterId": "tiny_elite_af_ashvault_flameskull",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_elite_af_ashvault_flameskull",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_af_ashvault_flameskull",
+      "defeatDialogueId": "rowan_elite_ashvault_flameskull_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_do_blue_drill_knight_site",
+      "monsterId": "tiny_elite_do_blue_drill_knight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_elite_do_blue_drill_knight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_do_blue_drill_knight",
+      "defeatDialogueId": "rowan_elite_blue_drill_knight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_do_red_drill_knight_site",
+      "monsterId": "tiny_elite_do_red_drill_knight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_elite_do_red_drill_knight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_do_red_drill_knight",
+      "defeatDialogueId": "rowan_elite_red_drill_knight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_db_glassgaze_medusa_site",
+      "monsterId": "tiny_elite_db_glassgaze_medusa",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_elite_db_glassgaze_medusa",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_db_glassgaze_medusa",
+      "defeatDialogueId": "rowan_elite_glassgaze_medusa_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_cw_cinderwell_ogre_site",
+      "monsterId": "tiny_elite_cw_cinderwell_ogre",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_elite_cw_cinderwell_ogre",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_cw_cinderwell_ogre",
+      "defeatDialogueId": "rowan_elite_cinderwell_ogre_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_cw_redpass_wendigo_site",
+      "monsterId": "tiny_elite_cw_redpass_wendigo",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_elite_cw_redpass_wendigo",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_cw_redpass_wendigo",
+      "defeatDialogueId": "rowan_elite_redpass_wendigo_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_cc_cistern_ironroot_troll_site",
+      "monsterId": "tiny_elite_cc_cistern_ironroot_troll",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_elite_cc_cistern_ironroot_troll",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_cc_cistern_ironroot_troll",
+      "defeatDialogueId": "rowan_elite_cistern_ironroot_troll_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_cc_cistern_sump_elemental_site",
+      "monsterId": "tiny_elite_cc_cistern_sump_elemental",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_elite_cc_cistern_sump_elemental",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_cc_cistern_sump_elemental",
+      "defeatDialogueId": "rowan_elite_cistern_sump_elemental_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_sr_saltflat_yeti_site",
+      "monsterId": "tiny_elite_sr_saltflat_yeti",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_elite_sr_saltflat_yeti",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_sr_saltflat_yeti",
+      "defeatDialogueId": "rowan_elite_saltflat_yeti_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_sr_redpass_sasquatch_site",
+      "monsterId": "tiny_elite_sr_redpass_sasquatch",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_elite_sr_redpass_sasquatch",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_sr_redpass_sasquatch",
+      "defeatDialogueId": "rowan_elite_redpass_sasquatch_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_sl_lockhouse_whispering_succubus_site",
+      "monsterId": "tiny_elite_sl_lockhouse_whispering_succubus",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_elite_sl_lockhouse_whispering_succubus",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_sl_lockhouse_whispering_succubus",
+      "defeatDialogueId": "rowan_elite_lockhouse_whispering_succubus_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_ch_choir_saltweb_spider_site",
+      "monsterId": "tiny_elite_ch_choir_saltweb_spider",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_elite_ch_choir_saltweb_spider",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_ch_choir_saltweb_spider",
+      "defeatDialogueId": "rowan_elite_choir_saltweb_spider_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_ch_choir_glacier_wisp_site",
+      "monsterId": "tiny_elite_ch_choir_glacier_wisp",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_elite_ch_choir_glacier_wisp",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_ch_choir_glacier_wisp",
+      "defeatDialogueId": "rowan_elite_choir_glacier_wisp_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_gw_greenwake_canopy_seraph_site",
+      "monsterId": "tiny_elite_gw_greenwake_canopy_seraph",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_elite_gw_greenwake_canopy_seraph",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_gw_greenwake_canopy_seraph",
+      "defeatDialogueId": "rowan_elite_greenwake_canopy_seraph_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_ow_outerwake_azure_drake_site",
+      "monsterId": "tiny_elite_ow_outerwake_azure_drake",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_elite_ow_outerwake_azure_drake",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_ow_outerwake_azure_drake",
+      "defeatDialogueId": "rowan_elite_outerwake_azure_drake_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "elite_lo_crownfall_glasswing_angel_site",
+      "monsterId": "tiny_elite_lo_crownfall_glasswing_angel",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_elite_lo_crownfall_glasswing_angel",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_elite_lo_crownfall_glasswing_angel",
+      "defeatDialogueId": "rowan_elite_crownfall_glasswing_angel_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 41,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_bat_site",
+      "monsterId": "verdant_bat",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_af_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_bat",
+      "defeatDialogueId": "rowan_verdant_bat_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_bee_site",
+      "monsterId": "verdant_bee",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_af_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_bee",
+      "defeatDialogueId": "rowan_verdant_bee_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_centaur_site",
+      "monsterId": "verdant_centaur",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_af_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_centaur",
+      "defeatDialogueId": "rowan_verdant_centaur_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_death_mage_elf_site",
+      "monsterId": "verdant_death_mage_elf",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_af_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_death_mage_elf",
+      "defeatDialogueId": "rowan_verdant_death_mage_elf_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_death_cob_site",
+      "monsterId": "verdant_death_cob",
+      "locationId": "ashfall_village",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_af_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_death_cob",
+      "defeatDialogueId": "rowan_verdant_death_cob_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 11,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_dragoon_site",
+      "monsterId": "verdant_dragoon",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_do_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_dragoon",
+      "defeatDialogueId": "rowan_verdant_dragoon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_ghost_site",
+      "monsterId": "verdant_ghost",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_do_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_ghost",
+      "defeatDialogueId": "rowan_verdant_ghost_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_goblin_site",
+      "monsterId": "verdant_goblin",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_do_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_goblin",
+      "defeatDialogueId": "rowan_verdant_goblin_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_hell_knight_site",
+      "monsterId": "verdant_hell_knight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_do_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_hell_knight",
+      "defeatDialogueId": "rowan_verdant_hell_knight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_naga_mage_site",
+      "monsterId": "verdant_naga_mage",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_do_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_naga_mage",
+      "defeatDialogueId": "rowan_verdant_naga_mage_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_naga_site",
+      "monsterId": "verdant_naga",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_verdant_db_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_naga",
+      "defeatDialogueId": "rowan_verdant_naga_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_shadow_site",
+      "monsterId": "verdant_shadow",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": -3.7,
+      "requiredQuestId": "side_verdant_db_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_shadow",
+      "defeatDialogueId": "rowan_verdant_shadow_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_soul_eater_site",
+      "monsterId": "verdant_soul_eater",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_verdant_db_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_soul_eater",
+      "defeatDialogueId": "rowan_verdant_soul_eater_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_spectral_warrior_site",
+      "monsterId": "verdant_spectral_warrior",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": -3.7,
+      "requiredQuestId": "side_verdant_db_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_spectral_warrior",
+      "defeatDialogueId": "rowan_verdant_spectral_warrior_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_vault_guard_site",
+      "monsterId": "verdant_vault_guard",
+      "locationId": "dawnkeep_barracks",
+      "positionX": 8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_verdant_db_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_vault_guard",
+      "defeatDialogueId": "rowan_verdant_vault_guard_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_worm_site",
+      "monsterId": "verdant_worm",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_worm",
+      "defeatDialogueId": "rowan_verdant_worm_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_wraith_site",
+      "monsterId": "verdant_wraith",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_cw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_wraith",
+      "defeatDialogueId": "rowan_verdant_wraith_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_yaktaur_site",
+      "monsterId": "verdant_yaktaur",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_yaktaur",
+      "defeatDialogueId": "rowan_verdant_yaktaur_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_anaconda_site",
+      "monsterId": "verdant_anaconda",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_cw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_anaconda",
+      "defeatDialogueId": "rowan_verdant_anaconda_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_big_fish_site",
+      "monsterId": "verdant_big_fish",
+      "locationId": "cinderwell_basin",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_big_fish",
+      "defeatDialogueId": "rowan_verdant_big_fish_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 20,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_dragon_site",
+      "monsterId": "verdant_dragon",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cc_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_dragon",
+      "defeatDialogueId": "rowan_verdant_dragon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_earth_worm_site",
+      "monsterId": "verdant_earth_worm",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_cc_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_earth_worm",
+      "defeatDialogueId": "rowan_verdant_earth_worm_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_frog_site",
+      "monsterId": "verdant_frog",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cc_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_frog",
+      "defeatDialogueId": "rowan_verdant_frog_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_giant_bat_site",
+      "monsterId": "verdant_giant_bat",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_cc_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_giant_bat",
+      "defeatDialogueId": "rowan_verdant_giant_bat_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_giant_beetle_site",
+      "monsterId": "verdant_giant_beetle",
+      "locationId": "cinder_cistern",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_cc_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_giant_beetle",
+      "defeatDialogueId": "rowan_verdant_giant_beetle_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 23,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_gold_fish_site",
+      "monsterId": "verdant_gold_fish",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_sr_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_gold_fish",
+      "defeatDialogueId": "rowan_verdant_gold_fish_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_griffin_site",
+      "monsterId": "verdant_griffin",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_sr_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_griffin",
+      "defeatDialogueId": "rowan_verdant_griffin_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_high_priest_elf_site",
+      "monsterId": "verdant_high_priest_elf",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_sr_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_high_priest_elf",
+      "defeatDialogueId": "rowan_verdant_high_priest_elf_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_jelly_fish_site",
+      "monsterId": "verdant_jelly_fish",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_verdant_sr_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_jelly_fish",
+      "defeatDialogueId": "rowan_verdant_jelly_fish_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_killer_bee_site",
+      "monsterId": "verdant_killer_bee",
+      "locationId": "salt_road",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_verdant_sr_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_killer_bee",
+      "defeatDialogueId": "rowan_verdant_killer_bee_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 26,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_killer_klown_site",
+      "monsterId": "verdant_killer_klown",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_verdant_sl_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_killer_klown",
+      "defeatDialogueId": "rowan_verdant_killer_klown_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_manticore_site",
+      "monsterId": "verdant_manticore",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": -4.4,
+      "requiredQuestId": "side_verdant_sl_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_manticore",
+      "defeatDialogueId": "rowan_verdant_manticore_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_mosquito_site",
+      "monsterId": "verdant_mosquito",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_verdant_sl_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_mosquito",
+      "defeatDialogueId": "rowan_verdant_mosquito_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_turtle_site",
+      "monsterId": "verdant_turtle",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": -4.4,
+      "requiredQuestId": "side_verdant_sl_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_turtle",
+      "defeatDialogueId": "rowan_verdant_turtle_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_wizard_orc_site",
+      "monsterId": "verdant_wizard_orc",
+      "locationId": "salt_lockhouse",
+      "positionX": 9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_verdant_sl_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_wizard_orc",
+      "defeatDialogueId": "rowan_verdant_wizard_orc_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 29,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_wolf_spider_site",
+      "monsterId": "verdant_wolf_spider",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ch_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_wolf_spider",
+      "defeatDialogueId": "rowan_verdant_wolf_spider_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_abomination_1_site",
+      "monsterId": "verdant_abomination_1",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_ch_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_abomination_1",
+      "defeatDialogueId": "rowan_verdant_abomination_1_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_abomination_2_site",
+      "monsterId": "verdant_abomination_2",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ch_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_abomination_2",
+      "defeatDialogueId": "rowan_verdant_abomination_2_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_abomination_3_site",
+      "monsterId": "verdant_abomination_3",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_ch_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_abomination_3",
+      "defeatDialogueId": "rowan_verdant_abomination_3_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_acid_blob_site",
+      "monsterId": "verdant_acid_blob",
+      "locationId": "choir_beneath_lake",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ch_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_acid_blob",
+      "defeatDialogueId": "rowan_verdant_acid_blob_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 32,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_apis_site",
+      "monsterId": "verdant_apis",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_gw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_apis",
+      "defeatDialogueId": "rowan_verdant_apis_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_chaos_spawn_site",
+      "monsterId": "verdant_chaos_spawn",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_gw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_chaos_spawn",
+      "defeatDialogueId": "rowan_verdant_chaos_spawn_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_chinese_dragon_site",
+      "monsterId": "verdant_chinese_dragon",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_gw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_chinese_dragon",
+      "defeatDialogueId": "rowan_verdant_chinese_dragon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_hellwing_site",
+      "monsterId": "verdant_hellwing",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_gw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_hellwing",
+      "defeatDialogueId": "rowan_verdant_hellwing_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_lorocyproca_site",
+      "monsterId": "verdant_lorocyproca",
+      "locationId": "greenwake_refuge",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_gw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_lorocyproca",
+      "defeatDialogueId": "rowan_verdant_lorocyproca_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 35,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_maurice_site",
+      "monsterId": "verdant_maurice",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ow_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_maurice",
+      "defeatDialogueId": "rowan_verdant_maurice_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_orphan_site",
+      "monsterId": "verdant_orphan",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_ow_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_orphan",
+      "defeatDialogueId": "rowan_verdant_orphan_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_reaper_site",
+      "monsterId": "verdant_reaper",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ow_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_reaper",
+      "defeatDialogueId": "rowan_verdant_reaper_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_rotting_devil_site",
+      "monsterId": "verdant_rotting_devil",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_ow_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_rotting_devil",
+      "defeatDialogueId": "rowan_verdant_rotting_devil_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_sigmund_site",
+      "monsterId": "verdant_sigmund",
+      "locationId": "outerwake_archive",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_ow_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_sigmund",
+      "defeatDialogueId": "rowan_verdant_sigmund_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 38,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_slime_site",
+      "monsterId": "verdant_slime",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_lo_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_slime",
+      "defeatDialogueId": "rowan_verdant_slime_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 41,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_snorg_site",
+      "monsterId": "verdant_snorg",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_lo_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_snorg",
+      "defeatDialogueId": "rowan_verdant_snorg_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 41,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_sun_demon_site",
+      "monsterId": "verdant_sun_demon",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_verdant_lo_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_sun_demon",
+      "defeatDialogueId": "rowan_verdant_sun_demon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 41,
+        "items": []
+      }
+    },
+    {
+      "id": "verdant_tormentor_site",
+      "monsterId": "verdant_tormentor",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_verdant_lo_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "verdant_tormentor",
+      "defeatDialogueId": "rowan_verdant_tormentor_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 41,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_black_bear_site",
+      "monsterId": "crawl_black_bear",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_af_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_black_bear",
+      "defeatDialogueId": "rowan_crawl_black_bear_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 12,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_bog_body_site",
+      "monsterId": "crawl_bog_body",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_af_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_bog_body",
+      "defeatDialogueId": "rowan_crawl_bog_body_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 12,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_ghoul_site",
+      "monsterId": "crawl_ghoul",
+      "locationId": "ashfall_village",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_af_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_ghoul",
+      "defeatDialogueId": "rowan_crawl_ghoul_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 12,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_anubis_guard_site",
+      "monsterId": "crawl_anubis_guard",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_af_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_anubis_guard",
+      "defeatDialogueId": "rowan_crawl_anubis_guard_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 12,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_salamander_site",
+      "monsterId": "crawl_salamander",
+      "locationId": "ashfall_village",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_af_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_salamander",
+      "defeatDialogueId": "rowan_crawl_salamander_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 12,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_cyclops_site",
+      "monsterId": "crawl_cyclops",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_do_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_cyclops",
+      "defeatDialogueId": "rowan_crawl_cyclops_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_ettin_site",
+      "monsterId": "crawl_ettin",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_do_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_ettin",
+      "defeatDialogueId": "rowan_crawl_ettin_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_death_knight_site",
+      "monsterId": "crawl_death_knight",
+      "locationId": "dawnkeep_outpost",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_do_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_death_knight",
+      "defeatDialogueId": "rowan_crawl_death_knight_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_iron_golem_site",
+      "monsterId": "crawl_iron_golem",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_do_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_iron_golem",
+      "defeatDialogueId": "rowan_crawl_iron_golem_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_juggernaut_site",
+      "monsterId": "crawl_juggernaut",
+      "locationId": "dawnkeep_outpost",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_do_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_juggernaut",
+      "defeatDialogueId": "rowan_crawl_juggernaut_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_jiangshi_site",
+      "monsterId": "crawl_jiangshi",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_crawl_db_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_jiangshi",
+      "defeatDialogueId": "rowan_crawl_jiangshi_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_eidolon_site",
+      "monsterId": "crawl_eidolon",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": -3.7,
+      "requiredQuestId": "side_crawl_db_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_eidolon",
+      "defeatDialogueId": "rowan_crawl_eidolon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_revenant_site",
+      "monsterId": "crawl_revenant",
+      "locationId": "dawnkeep_barracks",
+      "positionX": 8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_crawl_db_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_revenant",
+      "defeatDialogueId": "rowan_crawl_revenant_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_phantasmal_warrior_site",
+      "monsterId": "crawl_phantasmal_warrior",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": 3.7,
+      "requiredQuestId": "side_crawl_db_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_phantasmal_warrior",
+      "defeatDialogueId": "rowan_crawl_phantasmal_warrior_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_glowing_shapeshifter_site",
+      "monsterId": "crawl_glowing_shapeshifter",
+      "locationId": "dawnkeep_barracks",
+      "positionX": -8.5,
+      "positionY": -3.7,
+      "requiredQuestId": "side_crawl_db_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_glowing_shapeshifter",
+      "defeatDialogueId": "rowan_crawl_glowing_shapeshifter_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 15,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_caustic_shrike_site",
+      "monsterId": "crawl_caustic_shrike",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_caustic_shrike",
+      "defeatDialogueId": "rowan_crawl_caustic_shrike_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_elephant_slug_site",
+      "monsterId": "crawl_elephant_slug",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_cw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_elephant_slug",
+      "defeatDialogueId": "rowan_crawl_elephant_slug_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_death_yak_site",
+      "monsterId": "crawl_death_yak",
+      "locationId": "cinderwell_basin",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_death_yak",
+      "defeatDialogueId": "rowan_crawl_death_yak_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_catoblepas_site",
+      "monsterId": "crawl_catoblepas",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_catoblepas",
+      "defeatDialogueId": "rowan_crawl_catoblepas_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_giant_cockroach_site",
+      "monsterId": "crawl_giant_cockroach",
+      "locationId": "cinderwell_basin",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_cw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_giant_cockroach",
+      "defeatDialogueId": "rowan_crawl_giant_cockroach_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 21,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_electric_eel_site",
+      "monsterId": "crawl_electric_eel",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cc_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_electric_eel",
+      "defeatDialogueId": "rowan_crawl_electric_eel_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_shark_site",
+      "monsterId": "crawl_shark",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_cc_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_shark",
+      "defeatDialogueId": "rowan_crawl_shark_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_death_ooze_site",
+      "monsterId": "crawl_death_ooze",
+      "locationId": "cinder_cistern",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cc_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_death_ooze",
+      "defeatDialogueId": "rowan_crawl_death_ooze_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_apocalypse_crab_site",
+      "monsterId": "crawl_apocalypse_crab",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_cc_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_apocalypse_crab",
+      "defeatDialogueId": "rowan_crawl_apocalypse_crab_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_electric_golem_site",
+      "monsterId": "crawl_electric_golem",
+      "locationId": "cinder_cistern",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_cc_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_electric_golem",
+      "defeatDialogueId": "rowan_crawl_electric_golem_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 24,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_basilisk_site",
+      "monsterId": "crawl_basilisk",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_sr_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_basilisk",
+      "defeatDialogueId": "rowan_crawl_basilisk_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 27,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_polar_bear_site",
+      "monsterId": "crawl_polar_bear",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_sr_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_polar_bear",
+      "defeatDialogueId": "rowan_crawl_polar_bear_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 27,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_shock_serpent_site",
+      "monsterId": "crawl_shock_serpent",
+      "locationId": "salt_road",
+      "positionX": 9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_sr_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_shock_serpent",
+      "defeatDialogueId": "rowan_crawl_shock_serpent_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 27,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_hell_beast_site",
+      "monsterId": "crawl_hell_beast",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": 4.0,
+      "requiredQuestId": "side_crawl_sr_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_hell_beast",
+      "defeatDialogueId": "rowan_crawl_hell_beast_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 27,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_rust_devil_site",
+      "monsterId": "crawl_rust_devil",
+      "locationId": "salt_road",
+      "positionX": -9.0,
+      "positionY": -4.0,
+      "requiredQuestId": "side_crawl_sr_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_rust_devil",
+      "defeatDialogueId": "rowan_crawl_rust_devil_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 27,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_macabre_mass_site",
+      "monsterId": "crawl_macabre_mass",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_crawl_sl_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_macabre_mass",
+      "defeatDialogueId": "rowan_crawl_macabre_mass_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 30,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_unseen_horror_site",
+      "monsterId": "crawl_unseen_horror",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": -4.4,
+      "requiredQuestId": "side_crawl_sl_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_unseen_horror",
+      "defeatDialogueId": "rowan_crawl_unseen_horror_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 30,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_wretched_star_site",
+      "monsterId": "crawl_wretched_star",
+      "locationId": "salt_lockhouse",
+      "positionX": 9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_crawl_sl_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_wretched_star",
+      "defeatDialogueId": "rowan_crawl_wretched_star_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 30,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_eye_of_devastation_site",
+      "monsterId": "crawl_eye_of_devastation",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": 4.4,
+      "requiredQuestId": "side_crawl_sl_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_eye_of_devastation",
+      "defeatDialogueId": "rowan_crawl_eye_of_devastation_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 30,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_ancient_zyme_site",
+      "monsterId": "crawl_ancient_zyme",
+      "locationId": "salt_lockhouse",
+      "positionX": -9.5,
+      "positionY": -4.4,
+      "requiredQuestId": "side_crawl_sl_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_ancient_zyme",
+      "defeatDialogueId": "rowan_crawl_ancient_zyme_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 30,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_tentacled_starspawn_site",
+      "monsterId": "crawl_tentacled_starspawn",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ch_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_tentacled_starspawn",
+      "defeatDialogueId": "rowan_crawl_tentacled_starspawn_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 33,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_starcursed_mass_site",
+      "monsterId": "crawl_starcursed_mass",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_ch_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_starcursed_mass",
+      "defeatDialogueId": "rowan_crawl_starcursed_mass_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 33,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_worldbinder_site",
+      "monsterId": "crawl_worldbinder",
+      "locationId": "choir_beneath_lake",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ch_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_worldbinder",
+      "defeatDialogueId": "rowan_crawl_worldbinder_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 33,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_lurking_horror_site",
+      "monsterId": "crawl_lurking_horror",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ch_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_lurking_horror",
+      "defeatDialogueId": "rowan_crawl_lurking_horror_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 33,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_eye_of_draining_site",
+      "monsterId": "crawl_eye_of_draining",
+      "locationId": "choir_beneath_lake",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_ch_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_eye_of_draining",
+      "defeatDialogueId": "rowan_crawl_eye_of_draining_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 33,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_deathcap_site",
+      "monsterId": "crawl_deathcap",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_gw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_deathcap",
+      "defeatDialogueId": "rowan_crawl_deathcap_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 36,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_plant_crypt_site",
+      "monsterId": "crawl_plant_crypt",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_gw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_plant_crypt",
+      "defeatDialogueId": "rowan_crawl_plant_crypt_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 36,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_plant_demonic_site",
+      "monsterId": "crawl_plant_demonic",
+      "locationId": "greenwake_refuge",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_gw_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_plant_demonic",
+      "defeatDialogueId": "rowan_crawl_plant_demonic_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 36,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_thorn_hunter_site",
+      "monsterId": "crawl_thorn_hunter",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_gw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_thorn_hunter",
+      "defeatDialogueId": "rowan_crawl_thorn_hunter_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 36,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_vine_stalker_site",
+      "monsterId": "crawl_vine_stalker",
+      "locationId": "greenwake_refuge",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_gw_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_vine_stalker",
+      "defeatDialogueId": "rowan_crawl_vine_stalker_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 36,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_entropy_weaver_site",
+      "monsterId": "crawl_entropy_weaver",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ow_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_entropy_weaver",
+      "defeatDialogueId": "rowan_crawl_entropy_weaver_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 39,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_crystal_guardian_site",
+      "monsterId": "crawl_crystal_guardian",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_ow_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_crystal_guardian",
+      "defeatDialogueId": "rowan_crawl_crystal_guardian_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 39,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_iron_elemental_site",
+      "monsterId": "crawl_iron_elemental",
+      "locationId": "outerwake_archive",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ow_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_iron_elemental",
+      "defeatDialogueId": "rowan_crawl_iron_elemental_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 39,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_mutant_beast_site",
+      "monsterId": "crawl_mutant_beast",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_ow_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_mutant_beast",
+      "defeatDialogueId": "rowan_crawl_mutant_beast_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 39,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_wandering_mushroom_site",
+      "monsterId": "crawl_wandering_mushroom",
+      "locationId": "outerwake_archive",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_ow_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_wandering_mushroom",
+      "defeatDialogueId": "rowan_crawl_wandering_mushroom_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 39,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_fire_giant_site",
+      "monsterId": "crawl_fire_giant",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_lo_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_fire_giant",
+      "defeatDialogueId": "rowan_crawl_fire_giant_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 42,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_frost_giant_site",
+      "monsterId": "crawl_frost_giant",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_lo_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_frost_giant",
+      "defeatDialogueId": "rowan_crawl_frost_giant_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 42,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_balrug_site",
+      "monsterId": "crawl_balrug",
+      "locationId": "last_oath_reach",
+      "positionX": 10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_lo_1",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_balrug",
+      "defeatDialogueId": "rowan_crawl_balrug_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 42,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_blizzard_demon_site",
+      "monsterId": "crawl_blizzard_demon",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": 4.5,
+      "requiredQuestId": "side_crawl_lo_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_blizzard_demon",
+      "defeatDialogueId": "rowan_crawl_blizzard_demon_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 42,
+        "items": []
+      }
+    },
+    {
+      "id": "crawl_brimstone_fiend_site",
+      "monsterId": "crawl_brimstone_fiend",
+      "locationId": "last_oath_reach",
+      "positionX": -10.0,
+      "positionY": -4.5,
+      "requiredQuestId": "side_crawl_lo_2",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "crawl_brimstone_fiend",
+      "defeatDialogueId": "rowan_crawl_brimstone_fiend_record",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 42,
+        "items": []
+      }
+    },
+    {
+      "id": "waymarks_saltroad_hound",
+      "monsterId": "salt_hound",
+      "locationId": "salt_road",
+      "positionX": 4.8,
+      "positionY": -3.2,
+      "requiredQuestId": "side_waymarks_saltroad",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "waymarks_roadside_hound",
+      "defeatDialogueId": "rowan_waymarks_hound_defeated",
+      "downDialogueId": "rowan_waymarks_hound_down",
+      "reward": {
+        "gold": 5,
+        "items": []
+      }
+    },
+    {
+      "id": "ashfall_signal_goblin_site",
+      "monsterId": "tiny_af_ash_goblin",
+      "locationId": "ashfall_village",
+      "positionX": 6.6,
+      "positionY": 3.8,
+      "requiredQuestId": "side_ashfall_two_bells_clear",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "ashfall_signal_goblin",
+      "defeatDialogueId": "rowan_two_bells_goblin_victory",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 4,
+        "items": [
+          {
+            "itemId": "ashfall_signal_ash",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "cinder_pressure_wight_site",
+      "monsterId": "cinder_pressure_wight",
+      "locationId": "cinder_cistern",
+      "positionX": -7.2,
+      "positionY": 0.8,
+      "requiredQuestId": "side_cistern_wheel_wight",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "cinder_pressure_wight",
+      "defeatDialogueId": "rowan_cinder_pressure_wight_defeated",
+      "downDialogueId": "rowan_cinder_pressure_wight_down",
+      "reward": {
+        "gold": 18,
+        "items": [
+          {
+            "itemId": "cistern_pressure_shard",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "saltroad_roadglass_sentinel_site",
+      "monsterId": "roadglass_sentinel",
+      "locationId": "salt_road",
+      "positionX": -6.7,
+      "positionY": -3.0,
+      "requiredQuestId": "side_saltroad_roadglass_sentinel",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "roadglass_sentinel",
+      "defeatDialogueId": "rowan_saltroad_roadglass_sentinel_defeated",
+      "downDialogueId": "rowan_saltroad_roadglass_sentinel_down",
+      "reward": {
+        "gold": 16,
+        "items": [
+          {
+            "itemId": "roadglass_filament",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "saltroad_ruth_cart_guard",
+      "monsterId": "roadglass_sentinel",
+      "locationId": "salt_road",
+      "positionX": 7.2,
+      "positionY": -1.5,
+      "requiredQuestId": "side_ruth_recall_guard",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "roadglass_sentinel",
+      "defeatDialogueId": "ruth_recall_guard_down",
+      "downDialogueId": "ruth_recall_guard_player_down",
+      "reward": {
+        "gold": 0,
+        "items": [
+          {
+            "itemId": "roadglass_filament",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "june_pantry_cinderwell_muck",
+      "monsterId": "tiny_cw_cinderwell_muck",
+      "locationId": "cinderwell_basin",
+      "positionX": 1.1,
+      "positionY": 3.6,
+      "requiredQuestId": "side_june_pantry_pantry",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_cw_cinderwell_muck",
+      "defeatDialogueId": "june_stonepot_muck_down",
+      "downDialogueId": "june_stonepot_muck_retry",
+      "reward": {
+        "gold": 0,
+        "items": []
+      }
+    },
+    {
+      "id": "ashfall_cart_road_goblin",
+      "monsterId": "tiny_af_ash_goblin",
+      "locationId": "ashfall_village",
+      "positionX": 6.1,
+      "positionY": 4.05,
+      "requiredQuestId": "side_ashfall_cart_clear",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_ash_goblin",
+      "defeatDialogueId": "ashfall_cart_goblin_defeated",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 0,
+        "items": []
+      }
+    },
+    {
+      "id": "greenwake_rootwall_vine_stalker",
+      "monsterId": "crawl_vine_stalker",
+      "locationId": "greenwake_refuge",
+      "positionX": -4.6,
+      "positionY": -4.6,
+      "requiredQuestId": "side_greenwake_rootwall_mite",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "greenwake_rootwall_mite",
+      "defeatDialogueId": "greenwake_rootwall_mite_dialogue",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 14,
+        "items": [
+          {
+            "itemId": "greenwake_root_vine_fiber",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "saltroad_silas_arrow_sentinel",
+      "monsterId": "roadglass_sentinel",
+      "locationId": "salt_road",
+      "positionX": 1.1,
+      "positionY": 4.0,
+      "requiredQuestId": "side_silas_arrow_sentinel",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "roadglass_sentinel",
+      "defeatDialogueId": "silas_arrow_sentinel_victory",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "roadglass_filament",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "choir_first_oath_merrow",
+      "monsterId": "tiny_ch_choir_merrow",
+      "locationId": "choir_beneath_lake",
+      "positionX": -2.0,
+      "positionY": 3.8,
+      "requiredQuestId": "side_choir_first_oath_gate",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_ch_choir_merrow",
+      "defeatDialogueId": "warden_oath_merrow_down",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 3,
+        "items": [
+          {
+            "itemId": "choir_mote",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "mira_house_yard_warg",
+      "monsterId": "ash_warg",
+      "locationId": "ashfall_village",
+      "positionX": 5.4,
+      "positionY": -0.2,
+      "requiredQuestId": "side_mira_ash_house_yard_warg",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "ash_warg",
+      "defeatDialogueId": "mira_ash_house_yard_warg",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 0,
+        "items": []
+      }
+    },
+    {
+      "id": "mira_house_well_imp",
+      "monsterId": "tiny_af_well_imp",
+      "locationId": "ashfall_village",
+      "positionX": 1.0,
+      "positionY": 3.7,
+      "requiredQuestId": "side_mira_ash_house_well_imp",
+      "blockedQuestId": "",
+      "blockedDialogueId": "",
+      "contributesToQuest": true,
+      "defeatObjectiveTargetId": "tiny_af_well_imp",
+      "defeatDialogueId": "mira_ash_house_well_imp",
+      "downDialogueId": "rowan_field_retreat",
+      "reward": {
+        "gold": 0,
+        "items": []
+      }
+    }
+  ]
+}

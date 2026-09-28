@@ -1,0 +1,31 @@
+Park ambiences
+Title: Park ambiences
+Creator: Thimras
+Source: https://opengameart.org/content/park-ambiences
+Direct downloads:
+  https://opengameart.org/sites/default/files/park_ambience_birds.wav
+  https://opengameart.org/sites/default/files/park_ambience_river.wav
+  https://opengameart.org/sites/default/files/park_ambience_wind.wav
+License: CC0, as stated on the OpenGameArt source page. Attribution is not required.
+Reviewed/downloaded: 2026-09-25.
+
+The source page describes three field recordings made in a public park in Adelaide,
+South Australia, in winter. All are 48 kHz stereo PCM: birds near trees before rain,
+a small river with bird and frog calls, and stronger wind in an open field. The
+wind recording is 24-bit; the other two are 16-bit. Birds and wind are used whole.
+The river recording download was unusually slow, so the game uses the first 130.204
+seconds. Its audio samples are unchanged in the archived excerpt WAV; the imported
+loop has a 2-second crossfade at its tail and is 128.204 seconds long.
+
+Birds and wind source WAV files are preserved byte-for-byte in:
+  Docs/AssetArchives/park-ambiences-cc0/
+The river source excerpt is preserved in `park_ambience_river_source_excerpt.wav` in
+that directory; the looped version is `Assets/Resources/Audio/Ambience/park_ambience_river.wav`.
+Recreate the crossfaded loop with `python3 Tools/make_park_river_loop.py`.
+Unity uses PCM, streaming load and the preserved 48 kHz sample rate for Android.
+
+SHA-256:
+  park_ambience_birds.wav  dc1a5ac34b89cab7f8f261b53a23da7c1c5e3cc895aae4cb6fb4a1a04001b2af
+  park_ambience_river_source_excerpt.wav  93d252848eb95fc82d4338c530e1d58add96149b6ad57d1379ae8e8d286054f4
+  imported park_ambience_river.wav       df8f34f5e8552050f480ffa1bd5b401cf2feaa8a0fb592ee2afaa2c66c8e1a70
+  park_ambience_wind.wav   5c381856745b4706e7eba55eb9271a61a530e90c05df8126adb2db89ecfa6c5a

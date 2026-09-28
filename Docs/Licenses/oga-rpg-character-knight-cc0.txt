@@ -1,0 +1,9 @@
+RPG Character Knight — CC0 1.0 dedication
+
+Creator: 3DPyramid
+OpenGameArt: https://opengameart.org/content/rpg-character-knight
+Creator page: https://3dpyramid.itch.io/rpg-character-knight
+Downloaded archive: Docs/AssetArchives/opengameart-rpg-character-knight.zip
+Archive SHA-256: 66afcfa4dd845db3a278e529b66252a3148394f63a9f480020813f2de4dd53d3
+
+The OpenGameArt and creator listing identify the asset as CC0. Attribution is optional. The archive did not include a separate license text file; this record preserves the reviewed source and license links.

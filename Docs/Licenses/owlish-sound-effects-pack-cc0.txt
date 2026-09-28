@@ -1,0 +1,19 @@
+Sound Effects Pack — CC0
+
+Creator: OwlishMedia
+OpenGameArt source: https://opengameart.org/content/sound-effects-pack
+Source archive filename: Owlish Media Sound Effects.zip
+Source archive size: 142,384,346 bytes (the mixed-use archive is not retained locally)
+License: the OpenGameArt listing identifies the pack as CC0; attribution is optional.
+
+Nine original WAV entries were selected by reading the archive directory remotely and extracting only reviewed field audio. ZIP CRC, uncompressed size, WAV duration and SHA-256 were checked. Original selected WAVs are stored under Docs/AssetArchives/owlish-selection/ and are copied byte-for-byte to Resources before Unity's Vorbis import:
+
+- Ambience/night-crickets-ambience-on-rural-property.wav — 14,571,420 bytes, 82.52s, SHA-256 b207dcf8520b9ed202e155190e01c4b0b718c1a0de094c544d5dbcadc467e19a
+- Ambience/loopable-ticking-clock.wav — 703,380 bytes, 3.99s, SHA-256 128df8b1a18e4506f8b67b5be082e5f6e6a8d5f5fdf807f5855303f584ce30f5
+- Footsteps/grassy-footstep2.wav — 81,896 bytes, SHA-256 0c1cc813a5a2582e3b79510c72f561fa14fb6dad7907e80f6bbcf25d05d17d5e
+- Footsteps/grassy-footstep3.wav — 96,732 bytes, SHA-256 0c5636c46f8cdab2fc73f9bbcd78c96e15a7692352a7f5b8dcac23255ab52b2b
+- Footsteps/grassy-footstep4.wav — 97,292 bytes, SHA-256 982205d815ff74ee093da7f76301bff8f0c02f22d0d364d8ca176fd5241c6bb5
+- Footsteps/hard-footstep1.wav — 61,486 bytes, SHA-256 070a981c4d334da3a4ad830b2d627cca34402859ff92594c4c0acf187e5efbea
+- Footsteps/hard-footstep2.wav — 53,294 bytes, SHA-256 678a613ca81bb6c527c30073b79f0ca69775864f1f508069b9a2e233b4213246
+- Footsteps/hard-footstep3.wav — 61,486 bytes, SHA-256 2d875f1a17adf4c5b1ec24871e6da9a0ae960e5fa0afbb5fba6ddc60b209ce53
+- Footsteps/hard-footstep4.wav — 72,750 bytes, SHA-256 398474c950ae1010511b01e312896e8b3aa96f8abb6cf5199540c957cb5ae0c5

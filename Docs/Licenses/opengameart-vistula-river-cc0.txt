@@ -1,0 +1,10 @@
+Vistula River ambience
+Title: Sea and river wave sounds
+Creator: RandomMind
+Source: https://opengameart.org/content/sea-and-river-wave-sounds
+Download used: https://opengameart.org/sites/default/files/Vistula.zip
+License: CC0 1.0 Universal, as stated on the source page. Attribution is not required.
+Source archive: Docs/AssetArchives/vistula-river-ambience-cc0.zip
+Source archive SHA-256: 7dce8b35bb795a689dc4d37d11daf82a67253bdf767af148d85ff1c99bd4e7bc
+Imported source: Assets/Resources/Audio/Ambience/vistula_river.mp3 (Vistula.mp3 copied from the archive without edits)
+Imported source SHA-256: 69bbd06db332686ddd1bba35d33c85891cb41672136fede8b0cb2faedf028384

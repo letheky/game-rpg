@@ -1,0 +1,9 @@
+15 Melodic RPG Chiptunes — CC0
+
+Creator: Aureolus_Omicron
+OpenGameArt: https://opengameart.org/content/15-melodic-rpg-chiptunes
+License: CC0; the source listing states that no credit is required.
+Downloaded OGG archive: Docs/AssetArchives/15_melodic_rpg_chiptunes_ogg.zip
+Archive SHA-256: 85ac8a965d19e8db93f09e57e490080ae4550f3fcdda13de2db61a449b94f094
+
+The archive contains fifteen loopable OGG tracks. The source package is retained unchanged; the game imports the OGG files as streamed audio resources for offline playback.

@@ -1,0 +1,55 @@
+resource	source_archive	source_path	monster_id	rank	location
+verdant_bat	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Bat.png	verdant_bat	common	ashfall_village
+verdant_bee	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Bee.png	verdant_bee	common	ashfall_village
+verdant_centaur	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Centaur.png	verdant_centaur	common	ashfall_village
+verdant_death_mage_elf	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Death Mage Elf.png	verdant_death_mage_elf	common	ashfall_village
+verdant_death_cob	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Death-Cob.png	verdant_death_cob	common	ashfall_village
+verdant_dragoon	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Dragoon.png	verdant_dragoon	common	dawnkeep_outpost
+verdant_ghost	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Ghost.png	verdant_ghost	common	dawnkeep_outpost
+verdant_goblin	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Goblin.png	verdant_goblin	common	dawnkeep_outpost
+verdant_hell_knight	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Hell Knight.png	verdant_hell_knight	common	dawnkeep_outpost
+verdant_naga_mage	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Naga Mage.png	verdant_naga_mage	common	dawnkeep_outpost
+verdant_naga	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Naga.png	verdant_naga	common	dawnkeep_barracks
+verdant_shadow	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Shadow.png	verdant_shadow	common	dawnkeep_barracks
+verdant_soul_eater	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Soul-Eater.png	verdant_soul_eater	common	dawnkeep_barracks
+verdant_spectral_warrior	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Spectral-Warrior.png	verdant_spectral_warrior	common	dawnkeep_barracks
+verdant_vault_guard	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Vault Guard.png	verdant_vault_guard	common	dawnkeep_barracks
+verdant_worm	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Worm.png	verdant_worm	common	cinderwell_basin
+verdant_wraith	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Wraith.png	verdant_wraith	common	cinderwell_basin
+verdant_yaktaur	basic-green-monsters-batch-1-3.zip	Basic Green Monster Colection/Yaktaur.png	verdant_yaktaur	common	cinderwell_basin
+verdant_anaconda	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Anaconda.png	verdant_anaconda	common	cinderwell_basin
+verdant_big_fish	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Big Fish.png	verdant_big_fish	common	cinderwell_basin
+verdant_dragon	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Dragon.png	verdant_dragon	common	cinder_cistern
+verdant_earth_worm	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Earth Worm.png	verdant_earth_worm	common	cinder_cistern
+verdant_frog	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Frog.png	verdant_frog	common	cinder_cistern
+verdant_giant_bat	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Giant Bat.png	verdant_giant_bat	common	cinder_cistern
+verdant_giant_beetle	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Giant Beetle.png	verdant_giant_beetle	common	cinder_cistern
+verdant_gold_fish	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Gold Fish.png	verdant_gold_fish	common	salt_road
+verdant_griffin	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Griffin.png	verdant_griffin	common	salt_road
+verdant_high_priest_elf	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/High Priest Elf.png	verdant_high_priest_elf	common	salt_road
+verdant_jelly_fish	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Jelly Fish.png	verdant_jelly_fish	common	salt_road
+verdant_killer_bee	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Killer Bee.png	verdant_killer_bee	common	salt_road
+verdant_killer_klown	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Killer Klown.png	verdant_killer_klown	common	salt_lockhouse
+verdant_manticore	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Manticore.png	verdant_manticore	common	salt_lockhouse
+verdant_mosquito	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Mosquito.png	verdant_mosquito	common	salt_lockhouse
+verdant_turtle	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Turtle.png	verdant_turtle	common	salt_lockhouse
+verdant_wizard_orc	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Wizard Orc.png	verdant_wizard_orc	common	salt_lockhouse
+verdant_wolf_spider	basic-green-monsters-batch-4-6.zip	Batch 4-6/PNG/Wolf Spider.png	verdant_wolf_spider	common	choir_beneath_lake
+verdant_abomination_1	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Abomination 1.png	verdant_abomination_1	common	choir_beneath_lake
+verdant_abomination_2	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Abomination 2.png	verdant_abomination_2	common	choir_beneath_lake
+verdant_abomination_3	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Abomination 3.png	verdant_abomination_3	common	choir_beneath_lake
+verdant_acid_blob	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Acid Blob.png	verdant_acid_blob	common	choir_beneath_lake
+verdant_apis	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Apis.png	verdant_apis	common	greenwake_refuge
+verdant_chaos_spawn	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Chaos Spawn.png	verdant_chaos_spawn	common	greenwake_refuge
+verdant_chinese_dragon	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Chinese Dragon.png	verdant_chinese_dragon	common	greenwake_refuge
+verdant_hellwing	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Hellwing.png	verdant_hellwing	common	greenwake_refuge
+verdant_lorocyproca	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Lorocyproca.png	verdant_lorocyproca	common	greenwake_refuge
+verdant_maurice	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Maurice.png	verdant_maurice	common	outerwake_archive
+verdant_orphan	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Orphan.png	verdant_orphan	common	outerwake_archive
+verdant_reaper	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Reaper.png	verdant_reaper	common	outerwake_archive
+verdant_rotting_devil	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Rotting Devil.png	verdant_rotting_devil	common	outerwake_archive
+verdant_sigmund	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Sigmund.png	verdant_sigmund	common	outerwake_archive
+verdant_slime	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Slime.png	verdant_slime	elite	last_oath_reach
+verdant_snorg	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Snorg.png	verdant_snorg	elite	last_oath_reach
+verdant_sun_demon	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Sun Demon.png	verdant_sun_demon	elite	last_oath_reach
+verdant_tormentor	basic-green-monsters-batch-7-9.zip	Batch 7-9/PNG/Tormentor.png	verdant_tormentor	elite	last_oath_reach
